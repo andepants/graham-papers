@@ -1,0 +1,35 @@
+{
+  "$comment": "Edit data/parts.json to move essays between parts. Run npm run assign-parts after fetch to fill unassigned slugs using defaults.",
+  "parts": [
+    {
+      "id": "startups",
+      "number": "I",
+      "title": "Startups",
+      "subtitle": "Founding, funding, and growing companies"
+    },
+    {
+      "id": "wealth",
+      "number": "II",
+      "title": "Wealth and Work",
+      "subtitle": "Making money, working hard, and choosing what to do"
+    },
+    {
+      "id": "programming",
+      "number": "III",
+      "title": "Programming and Technology",
+      "subtitle": "Languages, hackers, and the craft of building software"
+    },
+    {
+      "id": "writing",
+      "number": "IV",
+      "title": "Writing and Thinking",
+      "subtitle": "Essays, ideas, and how to think clearly"
+    },
+    {
+      "id": "life",
+      "number": "V",
+      "title": "Life and Society",
+      "subtitle": "Culture, education, and how to live"
+    }
+  ]
+}

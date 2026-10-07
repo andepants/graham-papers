@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="840" viewBox="0 0 560 840">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1e3a5f"/>
+      <stop offset="100%" style="stop-color:#0f1f33"/>
+    </linearGradient>
+  </defs>
+  <rect width="560" height="840" fill="url(#g)"/>
+  <rect x="48" y="48" width="464" height="744" fill="none" stroke="#c9a962" stroke-width="2" opacity="0.6"/>
+  <text x="280" y="320" fill="#f5f0e6" font-family="Georgia, serif" font-size="42" text-anchor="middle">The</text>
+  <text x="280" y="400" fill="#f5f0e6" font-family="Georgia, serif" font-size="52" font-weight="bold" text-anchor="middle">Grahamanack</text>
+  <text x="280" y="480" fill="#c9a962" font-family="Georgia, serif" font-size="22" text-anchor="middle">Paul Graham&apos;s Essays</text>
+  <text x="280" y="720" fill="#a8b8c8" font-family="sans-serif" font-size="14" text-anchor="middle">Unofficial fan compilation</text>
+</svg>
