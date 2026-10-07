@@ -1,0 +1,59 @@
+{
+  "edition": "The Grahamanack — Lulu 6×9 linen hardcover with dust jacket",
+  "trim": { "widthIn": 6, "heightIn": 9, "bleedIn": 0 },
+  "maxPagesPerVolume": 800,
+  "pageCountMultiple": 4,
+  "marginsIn": {
+    "inner": 0.875,
+    "outer": 0.625,
+    "top": 0.75,
+    "bottom": 0.875
+  },
+  "typography": {
+    "fontFamily": "EB Garamond",
+    "fontSizePt": 10.5,
+    "leadingPt": 14,
+    "color": "000000"
+  },
+  "volumes": [
+    {
+      "id": "I",
+      "slug": "vol-i",
+      "title": "Volume I",
+      "subtitle": "Essays through April 2006",
+      "throughDate": "2006-04-30",
+      "notes": "Chronological split; new essays never append here."
+    },
+    {
+      "id": "II",
+      "slug": "vol-ii",
+      "title": "Volume II",
+      "subtitle": "Essays from May 2006 through November 2012",
+      "afterDate": "2006-04-30",
+      "throughDate": "2012-11-30"
+    },
+    {
+      "id": "III",
+      "slug": "vol-iii",
+      "title": "Volume III",
+      "subtitle": "Essays from 2013 to the present",
+      "afterDate": "2012-11-30",
+      "notes": "Only this volume grows when Paul Graham publishes new essays."
+    }
+  ],
+  "cover": {
+    "dpi": 300,
+    "dustJacket": {
+      "heightIn": 9.25,
+      "flapWidthIn": 3,
+      "panelWidthIn": 6,
+      "bleedIn": 0.125
+    },
+    "printedCase": {
+      "heightIn": 9.25,
+      "panelWidthIn": 6,
+      "wrapWidthIn": 0.75,
+      "bleedIn": 0.125
+    }
+  }
+}

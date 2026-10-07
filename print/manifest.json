@@ -1,0 +1,39 @@
+{
+  "generatedAt": "2026-10-07T22:39:43.657Z",
+  "config": "print/config.json",
+  "volumes": {
+    "vol-i": {
+      "title": "Volume I",
+      "essayCount": 59,
+      "pageCount": 436,
+      "spineWidthIn": 1.25,
+      "files": {
+        "interior": "public/print/grahamanack-vol-i-interior.pdf",
+        "dustJacket": "public/print/grahamanack-vol-i-dust-jacket.pdf",
+        "printedCase": "public/print/grahamanack-vol-i-printed-case.pdf"
+      }
+    },
+    "vol-ii": {
+      "title": "Volume II",
+      "essayCount": 89,
+      "pageCount": 444,
+      "spineWidthIn": 1.25,
+      "files": {
+        "interior": "public/print/grahamanack-vol-ii-interior.pdf",
+        "dustJacket": "public/print/grahamanack-vol-ii-dust-jacket.pdf",
+        "printedCase": "public/print/grahamanack-vol-ii-printed-case.pdf"
+      }
+    },
+    "vol-iii": {
+      "title": "Volume III",
+      "essayCount": 85,
+      "pageCount": 404,
+      "spineWidthIn": 1.1875,
+      "files": {
+        "interior": "public/print/grahamanack-vol-iii-interior.pdf",
+        "dustJacket": "public/print/grahamanack-vol-iii-dust-jacket.pdf",
+        "printedCase": "public/print/grahamanack-vol-iii-printed-case.pdf"
+      }
+    }
+  }
+}

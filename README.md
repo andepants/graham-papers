@@ -73,6 +73,21 @@ Schema reference: `data/parts.schema.json`.
 
 Set production domain to `grahamanack.com` when ready.
 
+## Print edition (Lulu 6×9 hardcover)
+
+For a **private** linen hardcover with dust jacket (not sold by this site):
+
+```bash
+npm run build:print   # requires Pandoc, XeLaTeX, pdf-lib, Puppeteer (covers)
+```
+
+Produces three interior PDFs (chronological volumes split via `print/config.json`), padded to a multiple of 4 pages, plus dust-jacket and printed-case cover PDFs per volume. Spine width uses `print/lulu-spine-width.json` (Lulu’s hardcover linen table). Outputs:
+
+- `print/manifest.json` — page counts and file paths
+- `public/print/` — files linked from [/print](/print) (“Make your own copy”)
+
+Regenerate covers after changing interior page counts. Only **Volume III** grows when new essays are fetched.
+
 ## Local dev
 
 ```bash

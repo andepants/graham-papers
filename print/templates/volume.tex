@@ -1,0 +1,26 @@
+% Pandoc LaTeX template fragment — variables injected by build-print.ts
+\documentclass[$fontsize$,$if(classoption)$$classoption$$endif$]{book}
+% geometry injected via header-includes from build-print.ts
+\usepackage{fontspec}
+% main font set in header-includes (EB Garamond, embedded)
+\usepackage{setspace}
+\setstretch{$linespread$}
+\usepackage[allcolors={HTML}{000000}]{hyperref}
+\usepackage{xcolor}
+\definecolor{TextBlack}{HTML}{000000}
+\color{TextBlack}
+\usepackage{microtype}
+\usepackage{ragged2e}
+\justifying
+\usepackage{titlesec}
+\titleformat{\chapter}[display]{\normalfont\huge\bfseries}{}{0pt}{\Huge}
+\titlespacing*{\chapter}{0pt}{0pt}{20pt}
+\newcommand{\essaysource}[1]{{\small\textit{#1}\par\vspace{0.75em}}}
+\newcommand{\essaynotes}[1]{\vfill\section*{Notes}\begingroup\small #1\endgroup}
+\newcommand{\essaythanks}[1]{\vspace{1em}\begingroup\small\textit{#1}\endgroup}
+$for(header-includes)$
+$header-includes$
+$endfor$
+\begin{document}
+$body$
+\end{document}
