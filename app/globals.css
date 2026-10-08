@@ -24,24 +24,7 @@
   --z-nav: 10;
   --z-cursor: 100;
 
-  color-scheme: light dark;
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --bg: #0f1115;
-    --surface: #161920;
-    --sunken: #1c2029;
-    --text: #e9eaee;
-    --muted: #a0a5b1;
-    --border: #2a2f3a;
-    --accent: #8fb0ea;
-    --accent-hover: #b3c9f1;
-    --accent-soft: rgb(143 176 234 / 0.12);
-    --on-accent: #0f1115;
-    --shadow: 0 1px 2px rgb(0 0 0 / 0.3), 0 8px 24px rgb(0 0 0 / 0.25);
-    --shadow-lift: 0 2px 4px rgb(0 0 0 / 0.35), 0 18px 40px rgb(0 0 0 / 0.35);
-  }
+  color-scheme: light;
 }
 
 *,

@@ -16,11 +16,16 @@ const garamond = EB_Garamond({
 
 export const metadata = siteMetadata();
 
+export const viewport = {
+  colorScheme: "light",
+};
+
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html
       lang="en"
       className={`${GeistSans.variable} ${GeistMono.variable} ${garamond.variable}`}
+      style={{ colorScheme: "light" }}
     >
       <body>
         <Nav />
