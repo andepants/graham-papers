@@ -14,17 +14,24 @@ function subscribe(callback: () => void) {
   };
 }
 
-function getSnapshot() {
-  const reduced = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
-  const coarse = window.matchMedia("(pointer: coarse)").matches;
-  return { reduced, coarse, motionOk: !reduced && !coarse };
+/** Must return a stable primitive — objects would retrigger useSyncExternalStore every render. */
+function getMotionOkSnapshot(): boolean {
+  return (
+    !window.matchMedia("(prefers-reduced-motion: reduce)").matches &&
+    !window.matchMedia("(pointer: coarse)").matches
+  );
 }
 
-function getServerSnapshot() {
-  return { reduced: false, coarse: false, motionOk: false };
+function getServerMotionOkSnapshot(): boolean {
+  return false;
 }
 
 /** Fine pointer + motion allowed — safe for Cursify-style cursor effects. */
 export function useMotionPreferences() {
-  return useSyncExternalStore(subscribe, getSnapshot, getServerSnapshot);
+  const motionOk = useSyncExternalStore(
+    subscribe,
+    getMotionOkSnapshot,
+    getServerMotionOkSnapshot,
+  );
+  return { motionOk };
 }
