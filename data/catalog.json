@@ -1,0 +1,4256 @@
+{
+  "generatedAt": "2026-10-08T02:40:14.805Z",
+  "siteTitle": "The Grahamanack",
+  "domain": "grahamanack.com",
+  "essayCount": 233,
+  "starterSlugs": [
+    "greatwork",
+    "kids",
+    "selfindulgence",
+    "do",
+    "wealth",
+    "essay",
+    "makersschedule",
+    "startupideas",
+    "love",
+    "think"
+  ],
+  "parts": [
+    {
+      "id": "startups",
+      "number": "I",
+      "title": "Startups",
+      "subtitle": "Founding, funding, and growing companies",
+      "essays": [
+        {
+          "slug": "avg",
+          "title": "Beating the Averages",
+          "date": "April 2001",
+          "url": "https://paulgraham.com/avg.html",
+          "partId": "startups",
+          "partNumber": "I",
+          "partTitle": "Startups"
+        },
+        {
+          "slug": "lwba",
+          "title": "Lisp for Web-Based Applications",
+          "date": "April 2001",
+          "url": "https://paulgraham.com/lwba.html",
+          "partId": "startups",
+          "partNumber": "I",
+          "partTitle": "Startups"
+        },
+        {
+          "slug": "road",
+          "title": "The Other Road Ahead",
+          "date": "September 2001",
+          "url": "https://paulgraham.com/road.html",
+          "partId": "startups",
+          "partNumber": "I",
+          "partTitle": "Startups"
+        },
+        {
+          "slug": "icad",
+          "title": "Revenge of the Nerds",
+          "date": "May 2002",
+          "url": "https://paulgraham.com/icad.html",
+          "partId": "startups",
+          "partNumber": "I",
+          "partTitle": "Startups"
+        },
+        {
+          "slug": "gh",
+          "title": "Great Hackers",
+          "date": "July 2004",
+          "url": "https://paulgraham.com/gh.html",
+          "partId": "startups",
+          "partNumber": "I",
+          "partTitle": "Startups"
+        },
+        {
+          "slug": "venturecapital",
+          "title": "A Unified Theory of VC Suckage",
+          "date": "March 2005",
+          "url": "https://paulgraham.com/venturecapital.html",
+          "partId": "startups",
+          "partNumber": "I",
+          "partTitle": "Startups"
+        },
+        {
+          "slug": "start",
+          "title": "How to Start a Startup",
+          "date": "March 2005",
+          "url": "https://paulgraham.com/start.html",
+          "partId": "startups",
+          "partNumber": "I",
+          "partTitle": "Startups"
+        },
+        {
+          "slug": "college",
+          "title": "Undergraduation",
+          "date": "March 2005",
+          "url": "https://paulgraham.com/college.html",
+          "partId": "startups",
+          "partNumber": "I",
+          "partTitle": "Startups"
+        },
+        {
+          "slug": "bronze",
+          "title": "Why Smart People Have Bad Ideas",
+          "date": "April 2005",
+          "url": "https://paulgraham.com/bronze.html",
+          "partId": "startups",
+          "partNumber": "I",
+          "partTitle": "Startups"
+        },
+        {
+          "slug": "hiring",
+          "title": "Hiring is Obsolete",
+          "date": "May 2005",
+          "url": "https://paulgraham.com/hiring.html",
+          "partId": "startups",
+          "partNumber": "I",
+          "partTitle": "Startups"
+        },
+        {
+          "slug": "ladder",
+          "title": "After the Ladder",
+          "date": "August 2005",
+          "url": "https://paulgraham.com/ladder.html",
+          "partId": "startups",
+          "partNumber": "I",
+          "partTitle": "Startups"
+        },
+        {
+          "slug": "startupfunding",
+          "title": "How to Fund a Startup",
+          "date": "November 2005",
+          "url": "https://paulgraham.com/startupfunding.html",
+          "partId": "startups",
+          "partNumber": "I",
+          "partTitle": "Startups"
+        },
+        {
+          "slug": "vcsqueeze",
+          "title": "The Venture Capital Squeeze",
+          "date": "November 2005",
+          "url": "https://paulgraham.com/vcsqueeze.html",
+          "partId": "startups",
+          "partNumber": "I",
+          "partTitle": "Startups"
+        },
+        {
+          "slug": "web20",
+          "title": "Web 2.0",
+          "date": "November 2005",
+          "url": "https://paulgraham.com/web20.html",
+          "partId": "startups",
+          "partNumber": "I",
+          "partTitle": "Startups"
+        },
+        {
+          "slug": "softwarepatents",
+          "title": "Are Software Patents Evil?",
+          "date": "March 2006",
+          "url": "https://paulgraham.com/softwarepatents.html",
+          "partId": "startups",
+          "partNumber": "I",
+          "partTitle": "Startups"
+        },
+        {
+          "slug": "whyyc",
+          "title": "Why YC",
+          "date": "March 2006",
+          "url": "https://paulgraham.com/whyyc.html",
+          "partId": "startups",
+          "partNumber": "I",
+          "partTitle": "Startups"
+        },
+        {
+          "slug": "startuplessons",
+          "title": "The Hardest Lessons for Startups to Learn",
+          "date": "April 2006",
+          "url": "https://paulgraham.com/startuplessons.html",
+          "partId": "startups",
+          "partNumber": "I",
+          "partTitle": "Startups"
+        },
+        {
+          "slug": "siliconvalley",
+          "title": "How to Be Silicon Valley",
+          "date": "May 2006",
+          "url": "https://paulgraham.com/siliconvalley.html",
+          "partId": "startups",
+          "partNumber": "I",
+          "partTitle": "Startups"
+        },
+        {
+          "slug": "america",
+          "title": "Why Startups Condense in America",
+          "date": "May 2006",
+          "url": "https://paulgraham.com/america.html",
+          "partId": "startups",
+          "partNumber": "I",
+          "partTitle": "Startups"
+        },
+        {
+          "slug": "marginal",
+          "title": "The Power of the Marginal",
+          "date": "June 2006",
+          "url": "https://paulgraham.com/marginal.html",
+          "partId": "startups",
+          "partNumber": "I",
+          "partTitle": "Startups"
+        },
+        {
+          "slug": "investors",
+          "title": "How to Present to Investors",
+          "date": "August 2006",
+          "url": "https://paulgraham.com/investors.html",
+          "partId": "startups",
+          "partNumber": "I",
+          "partTitle": "Startups"
+        },
+        {
+          "slug": "mit",
+          "title": "A Student's Guide to Startups",
+          "date": "October 2006",
+          "url": "https://paulgraham.com/mit.html",
+          "partId": "startups",
+          "partNumber": "I",
+          "partTitle": "Startups"
+        },
+        {
+          "slug": "startupmistakes",
+          "title": "The 18 Mistakes That Kill Startups",
+          "date": "October 2006",
+          "url": "https://paulgraham.com/startupmistakes.html",
+          "partId": "startups",
+          "partNumber": "I",
+          "partTitle": "Startups"
+        },
+        {
+          "slug": "notnot",
+          "title": "Why to Not Not Start a Startup",
+          "date": "March 2007",
+          "url": "https://paulgraham.com/notnot.html",
+          "partId": "startups",
+          "partNumber": "I",
+          "partTitle": "Startups"
+        },
+        {
+          "slug": "microsoft",
+          "title": "Microsoft is Dead",
+          "date": "April 2007",
+          "url": "https://paulgraham.com/microsoft.html",
+          "partId": "startups",
+          "partNumber": "I",
+          "partTitle": "Startups"
+        },
+        {
+          "slug": "guidetoinvestors",
+          "title": "The Hacker's Guide to Investors",
+          "date": "April 2007",
+          "url": "https://paulgraham.com/guidetoinvestors.html",
+          "partId": "startups",
+          "partNumber": "I",
+          "partTitle": "Startups"
+        },
+        {
+          "slug": "equity",
+          "title": "The Equity Equation",
+          "date": "July 2007",
+          "url": "https://paulgraham.com/equity.html",
+          "partId": "startups",
+          "partNumber": "I",
+          "partTitle": "Startups"
+        },
+        {
+          "slug": "die",
+          "title": "How Not to Die",
+          "date": "August 2007",
+          "url": "https://paulgraham.com/die.html",
+          "partId": "startups",
+          "partNumber": "I",
+          "partTitle": "Startups"
+        },
+        {
+          "slug": "webstartups",
+          "title": "The Future of Web Startups",
+          "date": "October 2007",
+          "url": "https://paulgraham.com/webstartups.html",
+          "partId": "startups",
+          "partNumber": "I",
+          "partTitle": "Startups"
+        },
+        {
+          "slug": "startuphubs",
+          "title": "Why to Move to a Startup Hub",
+          "date": "October 2007",
+          "url": "https://paulgraham.com/startuphubs.html",
+          "partId": "startups",
+          "partNumber": "I",
+          "partTitle": "Startups"
+        },
+        {
+          "slug": "ycombinator",
+          "title": "A New Venture Animal",
+          "date": "March 2008",
+          "url": "https://paulgraham.com/ycombinator.html",
+          "partId": "startups",
+          "partNumber": "I",
+          "partTitle": "Startups"
+        },
+        {
+          "slug": "boss",
+          "title": "You Weren't Meant to Have a Boss",
+          "date": "March 2008",
+          "url": "https://paulgraham.com/boss.html",
+          "partId": "startups",
+          "partNumber": "I",
+          "partTitle": "Startups"
+        },
+        {
+          "slug": "good",
+          "title": "Be Good",
+          "date": "April 2008",
+          "url": "https://paulgraham.com/good.html",
+          "partId": "startups",
+          "partNumber": "I",
+          "partTitle": "Startups"
+        },
+        {
+          "slug": "googles",
+          "title": "Why There Aren't More Googles",
+          "date": "April 2008",
+          "url": "https://paulgraham.com/googles.html",
+          "partId": "startups",
+          "partNumber": "I",
+          "partTitle": "Startups"
+        },
+        {
+          "slug": "prcmc",
+          "title": "The Pooled-Risk Company Management Company",
+          "date": "July 2008",
+          "url": "https://paulgraham.com/prcmc.html",
+          "partId": "startups",
+          "partNumber": "I",
+          "partTitle": "Startups"
+        },
+        {
+          "slug": "fundraising",
+          "title": "A Fundraising Survival Guide",
+          "date": "August 2008",
+          "url": "https://paulgraham.com/fundraising.html",
+          "partId": "startups",
+          "partNumber": "I",
+          "partTitle": "Startups"
+        },
+        {
+          "slug": "badeconomy",
+          "title": "Why to Start a Startup in a Bad Economy",
+          "date": "October 2008",
+          "url": "https://paulgraham.com/badeconomy.html",
+          "partId": "startups",
+          "partNumber": "I",
+          "partTitle": "Startups"
+        },
+        {
+          "slug": "artistsship",
+          "title": "The Other Half of \"Artists Ship\"",
+          "date": "November 2008",
+          "url": "https://paulgraham.com/artistsship.html",
+          "partId": "startups",
+          "partNumber": "I",
+          "partTitle": "Startups"
+        },
+        {
+          "slug": "divergence",
+          "title": "Could VC be a Casualty of the Recession?",
+          "date": "December 2008",
+          "url": "https://paulgraham.com/divergence.html",
+          "partId": "startups",
+          "partNumber": "I",
+          "partTitle": "Startups"
+        },
+        {
+          "slug": "highres",
+          "title": "The High-Res Society",
+          "date": "December 2008",
+          "url": "https://paulgraham.com/highres.html",
+          "partId": "startups",
+          "partNumber": "I",
+          "partTitle": "Startups"
+        },
+        {
+          "slug": "maybe",
+          "title": "Can You Buy a Silicon Valley?  Maybe.",
+          "date": "February 2009",
+          "url": "https://paulgraham.com/maybe.html",
+          "partId": "startups",
+          "partNumber": "I",
+          "partTitle": "Startups"
+        },
+        {
+          "slug": "13sentences",
+          "title": "Startups in 13 Sentences",
+          "date": "February 2009",
+          "url": "https://paulgraham.com/13sentences.html",
+          "partId": "startups",
+          "partNumber": "I",
+          "partTitle": "Startups"
+        },
+        {
+          "slug": "angelinvesting",
+          "title": "How to Be an Angel Investor",
+          "date": "March 2009",
+          "url": "https://paulgraham.com/angelinvesting.html",
+          "partId": "startups",
+          "partNumber": "I",
+          "partTitle": "Startups"
+        },
+        {
+          "slug": "relres",
+          "title": "Relentlessly Resourceful",
+          "date": "March 2009",
+          "url": "https://paulgraham.com/relres.html",
+          "partId": "startups",
+          "partNumber": "I",
+          "partTitle": "Startups"
+        },
+        {
+          "slug": "revolution",
+          "title": "A Local Revolution?",
+          "date": "April 2009",
+          "url": "https://paulgraham.com/revolution.html",
+          "partId": "startups",
+          "partNumber": "I",
+          "partTitle": "Startups"
+        },
+        {
+          "slug": "5founders",
+          "title": "Five Founders",
+          "date": "April 2009",
+          "url": "https://paulgraham.com/5founders.html",
+          "partId": "startups",
+          "partNumber": "I",
+          "partTitle": "Startups"
+        },
+        {
+          "slug": "foundervisa",
+          "title": "The Founder Visa",
+          "date": "April 2009",
+          "url": "https://paulgraham.com/foundervisa.html",
+          "partId": "startups",
+          "partNumber": "I",
+          "partTitle": "Startups"
+        },
+        {
+          "slug": "twitter",
+          "title": "Why Twitter is a Big Deal",
+          "date": "April 2009",
+          "url": "https://paulgraham.com/twitter.html",
+          "partId": "startups",
+          "partNumber": "I",
+          "partTitle": "Startups"
+        },
+        {
+          "slug": "ramenprofitable",
+          "title": "Ramen Profitable",
+          "date": "July 2009",
+          "url": "https://paulgraham.com/ramenprofitable.html",
+          "partId": "startups",
+          "partNumber": "I",
+          "partTitle": "Startups"
+        },
+        {
+          "slug": "segway",
+          "title": "The Trouble with the Segway",
+          "date": "July 2009",
+          "url": "https://paulgraham.com/segway.html",
+          "partId": "startups",
+          "partNumber": "I",
+          "partTitle": "Startups"
+        },
+        {
+          "slug": "kate",
+          "title": "What Kate Saw in Silicon Valley",
+          "date": "August 2009",
+          "url": "https://paulgraham.com/kate.html",
+          "partId": "startups",
+          "partNumber": "I",
+          "partTitle": "Startups"
+        },
+        {
+          "slug": "determination",
+          "title": "The Anatomy of Determination",
+          "date": "September 2009",
+          "url": "https://paulgraham.com/determination.html",
+          "partId": "startups",
+          "partNumber": "I",
+          "partTitle": "Startups"
+        },
+        {
+          "slug": "really",
+          "title": "What Startups Are Really Like",
+          "date": "October 2009",
+          "url": "https://paulgraham.com/really.html",
+          "partId": "startups",
+          "partNumber": "I",
+          "partTitle": "Startups"
+        },
+        {
+          "slug": "apple",
+          "title": "Apple's Mistake",
+          "date": "November 2009",
+          "url": "https://paulgraham.com/apple.html",
+          "partId": "startups",
+          "partNumber": "I",
+          "partTitle": "Startups"
+        },
+        {
+          "slug": "organic",
+          "title": "Organic Startup Ideas",
+          "date": "April 2010",
+          "url": "https://paulgraham.com/organic.html",
+          "partId": "startups",
+          "partNumber": "I",
+          "partTitle": "Startups"
+        },
+        {
+          "slug": "selfindulgence",
+          "title": "How to Lose Time and Money",
+          "date": "July 2010",
+          "url": "https://paulgraham.com/selfindulgence.html",
+          "partId": "startups",
+          "partNumber": "I",
+          "partTitle": "Startups"
+        },
+        {
+          "slug": "top",
+          "title": "The Top Idea in Your Mind",
+          "date": "July 2010",
+          "url": "https://paulgraham.com/top.html",
+          "partId": "startups",
+          "partNumber": "I",
+          "partTitle": "Startups"
+        },
+        {
+          "slug": "future",
+          "title": "The Future of Startup Funding",
+          "date": "August 2010",
+          "url": "https://paulgraham.com/future.html",
+          "partId": "startups",
+          "partNumber": "I",
+          "partTitle": "Startups"
+        },
+        {
+          "slug": "yahoo",
+          "title": "What Happened to Yahoo",
+          "date": "August 2010",
+          "url": "https://paulgraham.com/yahoo.html",
+          "partId": "startups",
+          "partNumber": "I",
+          "partTitle": "Startups"
+        },
+        {
+          "slug": "hiresfund",
+          "title": "High Resolution Fundraising",
+          "date": "September 2010",
+          "url": "https://paulgraham.com/hiresfund.html",
+          "partId": "startups",
+          "partNumber": "I",
+          "partTitle": "Startups"
+        },
+        {
+          "slug": "superangels",
+          "title": "The New Funding Landscape",
+          "date": "October 2010",
+          "url": "https://paulgraham.com/superangels.html",
+          "partId": "startups",
+          "partNumber": "I",
+          "partTitle": "Startups"
+        },
+        {
+          "slug": "founders",
+          "title": "What We Look for in Founders",
+          "date": "October 2010",
+          "url": "https://paulgraham.com/founders.html",
+          "partId": "startups",
+          "partNumber": "I",
+          "partTitle": "Startups"
+        },
+        {
+          "slug": "seesv",
+          "title": "Where to See Silicon Valley",
+          "date": "October 2010",
+          "url": "https://paulgraham.com/seesv.html",
+          "partId": "startups",
+          "partNumber": "I",
+          "partTitle": "Startups"
+        },
+        {
+          "slug": "control",
+          "title": "Founder Control",
+          "date": "December 2010",
+          "url": "https://paulgraham.com/control.html",
+          "partId": "startups",
+          "partNumber": "I",
+          "partTitle": "Startups"
+        },
+        {
+          "slug": "airbnb",
+          "title": "Subject: Airbnb",
+          "date": "March 2011",
+          "url": "https://paulgraham.com/airbnb.html",
+          "partId": "startups",
+          "partNumber": "I",
+          "partTitle": "Startups"
+        },
+        {
+          "slug": "hubs",
+          "title": "Why Startup Hubs Work",
+          "date": "October 2011",
+          "url": "https://paulgraham.com/hubs.html",
+          "partId": "startups",
+          "partNumber": "I",
+          "partTitle": "Startups"
+        },
+        {
+          "slug": "schlep",
+          "title": "Schlep Blindness",
+          "date": "January 2012",
+          "url": "https://paulgraham.com/schlep.html",
+          "partId": "startups",
+          "partNumber": "I",
+          "partTitle": "Startups"
+        },
+        {
+          "slug": "vw",
+          "title": "Snapshot: Viaweb, June 1998",
+          "date": "January 2012",
+          "url": "https://paulgraham.com/vw.html",
+          "partId": "startups",
+          "partNumber": "I",
+          "partTitle": "Startups"
+        },
+        {
+          "slug": "ambitious",
+          "title": "Frighteningly Ambitious Startup Ideas",
+          "date": "March 2012",
+          "url": "https://paulgraham.com/ambitious.html",
+          "partId": "startups",
+          "partNumber": "I",
+          "partTitle": "Startups"
+        },
+        {
+          "slug": "ycstart",
+          "title": "How Y Combinator Started",
+          "date": "March 2012",
+          "url": "https://paulgraham.com/ycstart.html",
+          "partId": "startups",
+          "partNumber": "I",
+          "partTitle": "Startups"
+        },
+        {
+          "slug": "swan",
+          "title": "Black Swan Farming",
+          "date": "September 2012",
+          "url": "https://paulgraham.com/swan.html",
+          "partId": "startups",
+          "partNumber": "I",
+          "partTitle": "Startups"
+        },
+        {
+          "slug": "growth",
+          "title": "Startup = Growth",
+          "date": "September 2012",
+          "url": "https://paulgraham.com/growth.html",
+          "partId": "startups",
+          "partNumber": "I",
+          "partTitle": "Startups"
+        },
+        {
+          "slug": "hw",
+          "title": "The Hardware Renaissance",
+          "date": "October 2012",
+          "url": "https://paulgraham.com/hw.html",
+          "partId": "startups",
+          "partNumber": "I",
+          "partTitle": "Startups"
+        },
+        {
+          "slug": "startupideas",
+          "title": "How to Get Startup Ideas",
+          "date": "November 2012",
+          "url": "https://paulgraham.com/startupideas.html",
+          "partId": "startups",
+          "partNumber": "I",
+          "partTitle": "Startups"
+        },
+        {
+          "slug": "invtrend",
+          "title": "Startup Investing Trends",
+          "date": "June 2013",
+          "url": "https://paulgraham.com/invtrend.html",
+          "partId": "startups",
+          "partNumber": "I",
+          "partTitle": "Startups"
+        },
+        {
+          "slug": "ds",
+          "title": "Do Things that Don't Scale",
+          "date": "July 2013",
+          "url": "https://paulgraham.com/ds.html",
+          "partId": "startups",
+          "partNumber": "I",
+          "partTitle": "Startups"
+        },
+        {
+          "slug": "convince",
+          "title": "How to Convince Investors",
+          "date": "August 2013",
+          "url": "https://paulgraham.com/convince.html",
+          "partId": "startups",
+          "partNumber": "I",
+          "partTitle": "Startups"
+        },
+        {
+          "slug": "herd",
+          "title": "Investor Herd Dynamics",
+          "date": "August 2013",
+          "url": "https://paulgraham.com/herd.html",
+          "partId": "startups",
+          "partNumber": "I",
+          "partTitle": "Startups"
+        },
+        {
+          "slug": "fr",
+          "title": "How to Raise Money",
+          "date": "September 2013",
+          "url": "https://paulgraham.com/fr.html",
+          "partId": "startups",
+          "partNumber": "I",
+          "partTitle": "Startups"
+        },
+        {
+          "slug": "before",
+          "title": "Before the Startup",
+          "date": "October 2014",
+          "url": "https://paulgraham.com/before.html",
+          "partId": "startups",
+          "partNumber": "I",
+          "partTitle": "Startups"
+        },
+        {
+          "slug": "pinch",
+          "title": "The Fatal Pinch",
+          "date": "December 2014",
+          "url": "https://paulgraham.com/pinch.html",
+          "partId": "startups",
+          "partNumber": "I",
+          "partTitle": "Startups"
+        },
+        {
+          "slug": "corpdev",
+          "title": "Don't Talk to Corp Dev",
+          "date": "January 2015",
+          "url": "https://paulgraham.com/corpdev.html",
+          "partId": "startups",
+          "partNumber": "I",
+          "partTitle": "Startups"
+        },
+        {
+          "slug": "ronco",
+          "title": "The Ronco Principle",
+          "date": "January 2015",
+          "url": "https://paulgraham.com/ronco.html",
+          "partId": "startups",
+          "partNumber": "I",
+          "partTitle": "Startups"
+        },
+        {
+          "slug": "name",
+          "title": "Change Your Name",
+          "date": "August 2015",
+          "url": "https://paulgraham.com/name.html",
+          "partId": "startups",
+          "partNumber": "I",
+          "partTitle": "Startups"
+        },
+        {
+          "slug": "safe",
+          "title": "Why It's Safe for Founders to Be Nice",
+          "date": "August 2015",
+          "url": "https://paulgraham.com/safe.html",
+          "partId": "startups",
+          "partNumber": "I",
+          "partTitle": "Startups"
+        },
+        {
+          "slug": "aord",
+          "title": "Default Alive or Default Dead?",
+          "date": "October 2015",
+          "url": "https://paulgraham.com/aord.html",
+          "partId": "startups",
+          "partNumber": "I",
+          "partTitle": "Startups"
+        },
+        {
+          "slug": "jessica",
+          "title": "Jessica Livingston",
+          "date": "November 2015",
+          "url": "https://paulgraham.com/jessica.html",
+          "partId": "startups",
+          "partNumber": "I",
+          "partTitle": "Startups"
+        },
+        {
+          "slug": "ineq",
+          "title": "Economic Inequality",
+          "date": "January 2016",
+          "url": "https://paulgraham.com/ineq.html",
+          "partId": "startups",
+          "partNumber": "I",
+          "partTitle": "Startups"
+        },
+        {
+          "slug": "pgh",
+          "title": "How to Make Pittsburgh a Startup Hub",
+          "date": "April 2016",
+          "url": "https://paulgraham.com/pgh.html",
+          "partId": "startups",
+          "partNumber": "I",
+          "partTitle": "Startups"
+        },
+        {
+          "slug": "noob",
+          "title": "Being a Noob",
+          "date": "January 2020",
+          "url": "https://paulgraham.com/noob.html",
+          "partId": "startups",
+          "partNumber": "I",
+          "partTitle": "Startups"
+        },
+        {
+          "slug": "fh",
+          "title": "Haters",
+          "date": "January 2020",
+          "url": "https://paulgraham.com/fh.html",
+          "partId": "startups",
+          "partNumber": "I",
+          "partTitle": "Startups"
+        },
+        {
+          "slug": "wtax",
+          "title": "Modeling a Wealth Tax",
+          "date": "August 2020",
+          "url": "https://paulgraham.com/wtax.html",
+          "partId": "startups",
+          "partNumber": "I",
+          "partTitle": "Startups"
+        },
+        {
+          "slug": "ace",
+          "title": "Billionaires Build",
+          "date": "December 2020",
+          "url": "https://paulgraham.com/ace.html",
+          "partId": "startups",
+          "partNumber": "I",
+          "partTitle": "Startups"
+        },
+        {
+          "slug": "airbnbs",
+          "title": "The Airbnbs",
+          "date": "December 2020",
+          "url": "https://paulgraham.com/airbnbs.html",
+          "partId": "startups",
+          "partNumber": "I",
+          "partTitle": "Startups"
+        },
+        {
+          "slug": "users",
+          "title": "What I've Learned from Users",
+          "date": "September 2022",
+          "url": "https://paulgraham.com/users.html",
+          "partId": "startups",
+          "partNumber": "I",
+          "partTitle": "Startups"
+        },
+        {
+          "slug": "google",
+          "title": "How to Start Google",
+          "date": "March 2024",
+          "url": "https://paulgraham.com/google.html",
+          "partId": "startups",
+          "partNumber": "I",
+          "partTitle": "Startups"
+        },
+        {
+          "slug": "reddits",
+          "title": "The Reddits",
+          "date": "March 2024",
+          "url": "https://paulgraham.com/reddits.html",
+          "partId": "startups",
+          "partNumber": "I",
+          "partTitle": "Startups"
+        },
+        {
+          "slug": "foundermode",
+          "title": "Founder Mode",
+          "date": "September 2024",
+          "url": "https://paulgraham.com/foundermode.html",
+          "partId": "startups",
+          "partNumber": "I",
+          "partTitle": "Startups"
+        },
+        {
+          "slug": "prepare",
+          "title": "How Universities Should Prepare Founders",
+          "date": "August 2026",
+          "url": "https://paulgraham.com/prepare.html",
+          "partId": "startups",
+          "partNumber": "I",
+          "partTitle": "Startups"
+        }
+      ]
+    },
+    {
+      "id": "wealth",
+      "number": "II",
+      "title": "Wealth and Work",
+      "subtitle": "Making money, working hard, and choosing what to do",
+      "essays": [
+        {
+          "slug": "popular",
+          "title": "Being Popular",
+          "date": "May 2001",
+          "url": "https://paulgraham.com/popular.html",
+          "partId": "wealth",
+          "partNumber": "II",
+          "partTitle": "Wealth and Work"
+        },
+        {
+          "slug": "wealth",
+          "title": "How to Make Wealth",
+          "date": "May 2004",
+          "url": "https://paulgraham.com/wealth.html",
+          "partId": "wealth",
+          "partNumber": "II",
+          "partTitle": "Wealth and Work"
+        },
+        {
+          "slug": "gap",
+          "title": "Mind the Gap",
+          "date": "May 2004",
+          "url": "https://paulgraham.com/gap.html",
+          "partId": "wealth",
+          "partNumber": "II",
+          "partTitle": "Wealth and Work"
+        },
+        {
+          "slug": "submarine",
+          "title": "The Submarine",
+          "date": "April 2005",
+          "url": "https://paulgraham.com/submarine.html",
+          "partId": "wealth",
+          "partNumber": "II",
+          "partTitle": "Wealth and Work"
+        },
+        {
+          "slug": "inequality",
+          "title": "Inequality and Risk",
+          "date": "August 2005",
+          "url": "https://paulgraham.com/inequality.html",
+          "partId": "wealth",
+          "partNumber": "II",
+          "partTitle": "Wealth and Work"
+        },
+        {
+          "slug": "love",
+          "title": "How to Do What You Love",
+          "date": "January 2006",
+          "url": "https://paulgraham.com/love.html",
+          "partId": "wealth",
+          "partNumber": "II",
+          "partTitle": "Wealth and Work"
+        },
+        {
+          "slug": "unions",
+          "title": "An Alternative Theory of Unions",
+          "date": "May 2007",
+          "url": "https://paulgraham.com/unions.html",
+          "partId": "wealth",
+          "partNumber": "II",
+          "partTitle": "Wealth and Work"
+        },
+        {
+          "slug": "cities",
+          "title": "Cities and Ambition",
+          "date": "May 2008",
+          "url": "https://paulgraham.com/cities.html",
+          "partId": "wealth",
+          "partNumber": "II",
+          "partTitle": "Wealth and Work"
+        },
+        {
+          "slug": "makersschedule",
+          "title": "Maker's Schedule, Manager's Schedule",
+          "date": "July 2009",
+          "url": "https://paulgraham.com/makersschedule.html",
+          "partId": "wealth",
+          "partNumber": "II",
+          "partTitle": "Wealth and Work"
+        },
+        {
+          "slug": "ecw",
+          "title": "How to Be an Expert in a Changing World",
+          "date": "December 2014",
+          "url": "https://paulgraham.com/ecw.html",
+          "partId": "wealth",
+          "partNumber": "II",
+          "partTitle": "Wealth and Work"
+        },
+        {
+          "slug": "re",
+          "title": "The Refragmentation",
+          "date": "January 2016",
+          "url": "https://paulgraham.com/re.html",
+          "partId": "wealth",
+          "partNumber": "II",
+          "partTitle": "Wealth and Work"
+        },
+        {
+          "slug": "donate",
+          "title": "Donate Unrestricted",
+          "date": "March 2021",
+          "url": "https://paulgraham.com/donate.html",
+          "partId": "wealth",
+          "partNumber": "II",
+          "partTitle": "Wealth and Work"
+        },
+        {
+          "slug": "richnow",
+          "title": "How People Get Rich Now",
+          "date": "April 2021",
+          "url": "https://paulgraham.com/richnow.html",
+          "partId": "wealth",
+          "partNumber": "II",
+          "partTitle": "Wealth and Work"
+        },
+        {
+          "slug": "newideas",
+          "title": "Crazy New Ideas",
+          "date": "May 2021",
+          "url": "https://paulgraham.com/newideas.html",
+          "partId": "wealth",
+          "partNumber": "II",
+          "partTitle": "Wealth and Work"
+        },
+        {
+          "slug": "hwh",
+          "title": "How to Work Hard",
+          "date": "June 2021",
+          "url": "https://paulgraham.com/hwh.html",
+          "partId": "wealth",
+          "partNumber": "II",
+          "partTitle": "Wealth and Work"
+        },
+        {
+          "slug": "greatwork",
+          "title": "How to Do Great Work",
+          "date": "July 2023",
+          "url": "https://paulgraham.com/greatwork.html",
+          "partId": "wealth",
+          "partNumber": "II",
+          "partTitle": "Wealth and Work"
+        },
+        {
+          "slug": "superlinear",
+          "title": "Superlinear Returns",
+          "date": "October 2023",
+          "url": "https://paulgraham.com/superlinear.html",
+          "partId": "wealth",
+          "partNumber": "II",
+          "partTitle": "Wealth and Work"
+        },
+        {
+          "slug": "persistence",
+          "title": "The Right Kind of Stubborn",
+          "date": "July 2024",
+          "url": "https://paulgraham.com/persistence.html",
+          "partId": "wealth",
+          "partNumber": "II",
+          "partTitle": "Wealth and Work"
+        },
+        {
+          "slug": "when",
+          "title": "When To Do What You Love",
+          "date": "September 2024",
+          "url": "https://paulgraham.com/when.html",
+          "partId": "wealth",
+          "partNumber": "II",
+          "partTitle": "Wealth and Work"
+        },
+        {
+          "slug": "winc",
+          "title": "How to Convert Between Wealth and Income Tax",
+          "date": "May 2026",
+          "url": "https://paulgraham.com/winc.html",
+          "partId": "wealth",
+          "partNumber": "II",
+          "partTitle": "Wealth and Work"
+        },
+        {
+          "slug": "earn",
+          "title": "How to Earn a Billion Dollars",
+          "date": "June 2026",
+          "url": "https://paulgraham.com/earn.html",
+          "partId": "wealth",
+          "partNumber": "II",
+          "partTitle": "Wealth and Work"
+        },
+        {
+          "slug": "powerful",
+          "title": "Making Startups Powerful",
+          "date": "September 2026",
+          "url": "https://paulgraham.com/powerful.html",
+          "partId": "wealth",
+          "partNumber": "II",
+          "partTitle": "Wealth and Work"
+        }
+      ]
+    },
+    {
+      "id": "programming",
+      "number": "III",
+      "title": "Programming and Technology",
+      "subtitle": "Languages, hackers, and the craft of building software",
+      "essays": [
+        {
+          "slug": "javacover",
+          "title": "Java's Cover",
+          "date": "April 2001",
+          "url": "https://paulgraham.com/javacover.html",
+          "partId": "programming",
+          "partNumber": "III",
+          "partTitle": "Programming and Technology"
+        },
+        {
+          "slug": "langdes",
+          "title": "Five Questions about Language Design",
+          "date": "May 2001",
+          "url": "https://paulgraham.com/langdes.html",
+          "partId": "programming",
+          "partNumber": "III",
+          "partTitle": "Programming and Technology"
+        },
+        {
+          "slug": "rootsoflisp",
+          "title": "The Roots of Lisp",
+          "date": "May 2001",
+          "url": "https://paulgraham.com/rootsoflisp.html",
+          "partId": "programming",
+          "partNumber": "III",
+          "partTitle": "Programming and Technology"
+        },
+        {
+          "slug": "diff",
+          "title": "What Made Lisp Different",
+          "date": "December 2001",
+          "url": "https://paulgraham.com/diff.html",
+          "partId": "programming",
+          "partNumber": "III",
+          "partTitle": "Programming and Technology"
+        },
+        {
+          "slug": "spam",
+          "title": "A Plan for Spam",
+          "date": "August 2002",
+          "url": "https://paulgraham.com/spam.html",
+          "partId": "programming",
+          "partNumber": "III",
+          "partTitle": "Programming and Technology"
+        },
+        {
+          "slug": "better",
+          "title": "Better Bayesian Filtering",
+          "date": "January 2003",
+          "url": "https://paulgraham.com/better.html",
+          "partId": "programming",
+          "partNumber": "III",
+          "partTitle": "Programming and Technology"
+        },
+        {
+          "slug": "desres",
+          "title": "Design and Research",
+          "date": "January 2003",
+          "url": "https://paulgraham.com/desres.html",
+          "partId": "programming",
+          "partNumber": "III",
+          "partTitle": "Programming and Technology"
+        },
+        {
+          "slug": "nerds",
+          "title": "Why Nerds are Unpopular",
+          "date": "February 2003",
+          "url": "https://paulgraham.com/nerds.html",
+          "partId": "programming",
+          "partNumber": "III",
+          "partTitle": "Programming and Technology"
+        },
+        {
+          "slug": "hundred",
+          "title": "The Hundred-Year Language",
+          "date": "April 2003",
+          "url": "https://paulgraham.com/hundred.html",
+          "partId": "programming",
+          "partNumber": "III",
+          "partTitle": "Programming and Technology"
+        },
+        {
+          "slug": "iflisp",
+          "title": "If Lisp is So Great",
+          "date": "May 2003",
+          "url": "https://paulgraham.com/iflisp.html",
+          "partId": "programming",
+          "partNumber": "III",
+          "partTitle": "Programming and Technology"
+        },
+        {
+          "slug": "ffb",
+          "title": "Filters that Fight Back",
+          "date": "August 2003",
+          "url": "https://paulgraham.com/ffb.html",
+          "partId": "programming",
+          "partNumber": "III",
+          "partTitle": "Programming and Technology"
+        },
+        {
+          "slug": "gba",
+          "title": "The Word \"Hacker\"",
+          "date": "April 2004",
+          "url": "https://paulgraham.com/gba.html",
+          "partId": "programming",
+          "partNumber": "III",
+          "partTitle": "Programming and Technology"
+        },
+        {
+          "slug": "pypar",
+          "title": "The Python Paradox",
+          "date": "August 2004",
+          "url": "https://paulgraham.com/pypar.html",
+          "partId": "programming",
+          "partNumber": "III",
+          "partTitle": "Programming and Technology"
+        },
+        {
+          "slug": "sfp",
+          "title": "What I Did this Summer",
+          "date": "October 2005",
+          "url": "https://paulgraham.com/sfp.html",
+          "partId": "programming",
+          "partNumber": "III",
+          "partTitle": "Programming and Technology"
+        },
+        {
+          "slug": "head",
+          "title": "Holding a Program in One's Head",
+          "date": "August 2007",
+          "url": "https://paulgraham.com/head.html",
+          "partId": "programming",
+          "partNumber": "III",
+          "partTitle": "Programming and Technology"
+        },
+        {
+          "slug": "newthings",
+          "title": "Six Principles for Making New Things",
+          "date": "February 2008",
+          "url": "https://paulgraham.com/newthings.html",
+          "partId": "programming",
+          "partNumber": "III",
+          "partTitle": "Programming and Technology"
+        },
+        {
+          "slug": "trolls",
+          "title": "Trolls",
+          "date": "February 2008",
+          "url": "https://paulgraham.com/trolls.html",
+          "partId": "programming",
+          "partNumber": "III",
+          "partTitle": "Programming and Technology"
+        },
+        {
+          "slug": "hackernews",
+          "title": "What I've Learned from Hacker News",
+          "date": "February 2009",
+          "url": "https://paulgraham.com/hackernews.html",
+          "partId": "programming",
+          "partNumber": "III",
+          "partTitle": "Programming and Technology"
+        },
+        {
+          "slug": "fn",
+          "title": "Fierce Nerds",
+          "date": "May 2021",
+          "url": "https://paulgraham.com/fn.html",
+          "partId": "programming",
+          "partNumber": "III",
+          "partTitle": "Programming and Technology"
+        },
+        {
+          "slug": "progbot",
+          "title": "Programming Bottom-Up",
+          "date": null,
+          "url": "https://paulgraham.com/progbot.html",
+          "partId": "programming",
+          "partNumber": "III",
+          "partTitle": "Programming and Technology"
+        },
+        {
+          "slug": "fix",
+          "title": "What Languages Fix",
+          "date": null,
+          "url": "https://paulgraham.com/fix.html",
+          "partId": "programming",
+          "partNumber": "III",
+          "partTitle": "Programming and Technology"
+        },
+        {
+          "slug": "noop",
+          "title": "Why Arc Isn't Especially Object-Oriented",
+          "date": null,
+          "url": "https://paulgraham.com/noop.html",
+          "partId": "programming",
+          "partNumber": "III",
+          "partTitle": "Programming and Technology"
+        }
+      ]
+    },
+    {
+      "id": "writing",
+      "number": "IV",
+      "title": "Writing and Thinking",
+      "subtitle": "Essays, ideas, and how to think clearly",
+      "essays": [
+        {
+          "slug": "taste",
+          "title": "Taste for Makers",
+          "date": "February 2002",
+          "url": "https://paulgraham.com/taste.html",
+          "partId": "writing",
+          "partNumber": "IV",
+          "partTitle": "Writing and Thinking"
+        },
+        {
+          "slug": "power",
+          "title": "Succinctness is Power",
+          "date": "May 2002",
+          "url": "https://paulgraham.com/power.html",
+          "partId": "writing",
+          "partNumber": "IV",
+          "partTitle": "Writing and Thinking"
+        },
+        {
+          "slug": "hp",
+          "title": "Hackers and Painters",
+          "date": "May 2003",
+          "url": "https://paulgraham.com/hp.html",
+          "partId": "writing",
+          "partNumber": "IV",
+          "partTitle": "Writing and Thinking"
+        },
+        {
+          "slug": "essay",
+          "title": "The Age of the Essay",
+          "date": "September 2004",
+          "url": "https://paulgraham.com/essay.html",
+          "partId": "writing",
+          "partNumber": "IV",
+          "partTitle": "Writing and Thinking"
+        },
+        {
+          "slug": "bubble",
+          "title": "What the Bubble Got Right",
+          "date": "September 2004",
+          "url": "https://paulgraham.com/bubble.html",
+          "partId": "writing",
+          "partNumber": "IV",
+          "partTitle": "Writing and Thinking"
+        },
+        {
+          "slug": "laundry",
+          "title": "A Version 1.0",
+          "date": "October 2004",
+          "url": "https://paulgraham.com/laundry.html",
+          "partId": "writing",
+          "partNumber": "IV",
+          "partTitle": "Writing and Thinking"
+        },
+        {
+          "slug": "polls",
+          "title": "Bradley's Ghost",
+          "date": "November 2004",
+          "url": "https://paulgraham.com/polls.html",
+          "partId": "writing",
+          "partNumber": "IV",
+          "partTitle": "Writing and Thinking"
+        },
+        {
+          "slug": "usa",
+          "title": "Made in USA",
+          "date": "November 2004",
+          "url": "https://paulgraham.com/usa.html",
+          "partId": "writing",
+          "partNumber": "IV",
+          "partTitle": "Writing and Thinking"
+        },
+        {
+          "slug": "hs",
+          "title": "What You'll Wish You'd Known",
+          "date": "January 2005",
+          "url": "https://paulgraham.com/hs.html",
+          "partId": "writing",
+          "partNumber": "IV",
+          "partTitle": "Writing and Thinking"
+        },
+        {
+          "slug": "mac",
+          "title": "Return of the Mac",
+          "date": "March 2005",
+          "url": "https://paulgraham.com/mac.html",
+          "partId": "writing",
+          "partNumber": "IV",
+          "partTitle": "Writing and Thinking"
+        },
+        {
+          "slug": "writing44",
+          "title": "Writing,  Briefly",
+          "date": "March 2005",
+          "url": "https://paulgraham.com/writing44.html",
+          "partId": "writing",
+          "partNumber": "IV",
+          "partTitle": "Writing and Thinking"
+        },
+        {
+          "slug": "opensource",
+          "title": "What Business Can Learn from Open Source",
+          "date": "August 2005",
+          "url": "https://paulgraham.com/opensource.html",
+          "partId": "writing",
+          "partNumber": "IV",
+          "partTitle": "Writing and Thinking"
+        },
+        {
+          "slug": "ideas",
+          "title": "Ideas for Startups",
+          "date": "October 2005",
+          "url": "https://paulgraham.com/ideas.html",
+          "partId": "writing",
+          "partNumber": "IV",
+          "partTitle": "Writing and Thinking"
+        },
+        {
+          "slug": "procrastination",
+          "title": "Good and Bad Procrastination",
+          "date": "December 2005",
+          "url": "https://paulgraham.com/procrastination.html",
+          "partId": "writing",
+          "partNumber": "IV",
+          "partTitle": "Writing and Thinking"
+        },
+        {
+          "slug": "6631327",
+          "title": "6,631,372",
+          "date": "March 2006",
+          "url": "https://paulgraham.com/6631327.html",
+          "partId": "writing",
+          "partNumber": "IV",
+          "partTitle": "Writing and Thinking"
+        },
+        {
+          "slug": "randomness",
+          "title": "See Randomness",
+          "date": "April 2006",
+          "url": "https://paulgraham.com/randomness.html",
+          "partId": "writing",
+          "partNumber": "IV",
+          "partTitle": "Writing and Thinking"
+        },
+        {
+          "slug": "copy",
+          "title": "Copy What You Like",
+          "date": "July 2006",
+          "url": "https://paulgraham.com/copy.html",
+          "partId": "writing",
+          "partNumber": "IV",
+          "partTitle": "Writing and Thinking"
+        },
+        {
+          "slug": "island",
+          "title": "The Island Test",
+          "date": "July 2006",
+          "url": "https://paulgraham.com/island.html",
+          "partId": "writing",
+          "partNumber": "IV",
+          "partTitle": "Writing and Thinking"
+        },
+        {
+          "slug": "goodart",
+          "title": "How Art Can Be Good",
+          "date": "December 2006",
+          "url": "https://paulgraham.com/goodart.html",
+          "partId": "writing",
+          "partNumber": "IV",
+          "partTitle": "Writing and Thinking"
+        },
+        {
+          "slug": "foundersatwork",
+          "title": "Learning from Founders",
+          "date": "January 2007",
+          "url": "https://paulgraham.com/foundersatwork.html",
+          "partId": "writing",
+          "partNumber": "IV",
+          "partTitle": "Writing and Thinking"
+        },
+        {
+          "slug": "wisdom",
+          "title": "Is It Worth Being Wise?",
+          "date": "February 2007",
+          "url": "https://paulgraham.com/wisdom.html",
+          "partId": "writing",
+          "partNumber": "IV",
+          "partTitle": "Writing and Thinking"
+        },
+        {
+          "slug": "judgement",
+          "title": "Two Kinds of Judgement",
+          "date": "April 2007",
+          "url": "https://paulgraham.com/judgement.html",
+          "partId": "writing",
+          "partNumber": "IV",
+          "partTitle": "Writing and Thinking"
+        },
+        {
+          "slug": "stuff",
+          "title": "Stuff",
+          "date": "July 2007",
+          "url": "https://paulgraham.com/stuff.html",
+          "partId": "writing",
+          "partNumber": "IV",
+          "partTitle": "Writing and Thinking"
+        },
+        {
+          "slug": "philosophy",
+          "title": "How to Do Philosophy",
+          "date": "September 2007",
+          "url": "https://paulgraham.com/philosophy.html",
+          "partId": "writing",
+          "partNumber": "IV",
+          "partTitle": "Writing and Thinking"
+        },
+        {
+          "slug": "disagree",
+          "title": "How to Disagree",
+          "date": "March 2008",
+          "url": "https://paulgraham.com/disagree.html",
+          "partId": "writing",
+          "partNumber": "IV",
+          "partTitle": "Writing and Thinking"
+        },
+        {
+          "slug": "heroes",
+          "title": "Some Heroes",
+          "date": "April 2008",
+          "url": "https://paulgraham.com/heroes.html",
+          "partId": "writing",
+          "partNumber": "IV",
+          "partTitle": "Writing and Thinking"
+        },
+        {
+          "slug": "distraction",
+          "title": "Disconnecting Distraction",
+          "date": "May 2008",
+          "url": "https://paulgraham.com/distraction.html",
+          "partId": "writing",
+          "partNumber": "IV",
+          "partTitle": "Writing and Thinking"
+        },
+        {
+          "slug": "lies",
+          "title": "Lies We Tell Kids",
+          "date": "May 2008",
+          "url": "https://paulgraham.com/lies.html",
+          "partId": "writing",
+          "partNumber": "IV",
+          "partTitle": "Writing and Thinking"
+        },
+        {
+          "slug": "credentials",
+          "title": "After Credentials",
+          "date": "December 2008",
+          "url": "https://paulgraham.com/credentials.html",
+          "partId": "writing",
+          "partNumber": "IV",
+          "partTitle": "Writing and Thinking"
+        },
+        {
+          "slug": "identity",
+          "title": "Keep Your Identity Small",
+          "date": "February 2009",
+          "url": "https://paulgraham.com/identity.html",
+          "partId": "writing",
+          "partNumber": "IV",
+          "partTitle": "Writing and Thinking"
+        },
+        {
+          "slug": "convergence",
+          "title": "Why TV Lost",
+          "date": "March 2009",
+          "url": "https://paulgraham.com/convergence.html",
+          "partId": "writing",
+          "partNumber": "IV",
+          "partTitle": "Writing and Thinking"
+        },
+        {
+          "slug": "discover",
+          "title": "Persuade xor Discover",
+          "date": "September 2009",
+          "url": "https://paulgraham.com/discover.html",
+          "partId": "writing",
+          "partNumber": "IV",
+          "partTitle": "Writing and Thinking"
+        },
+        {
+          "slug": "publishing",
+          "title": "Post-Medium Publishing",
+          "date": "September 2009",
+          "url": "https://paulgraham.com/publishing.html",
+          "partId": "writing",
+          "partNumber": "IV",
+          "partTitle": "Writing and Thinking"
+        },
+        {
+          "slug": "nthings",
+          "title": "The List of N Things",
+          "date": "September 2009",
+          "url": "https://paulgraham.com/nthings.html",
+          "partId": "writing",
+          "partNumber": "IV",
+          "partTitle": "Writing and Thinking"
+        },
+        {
+          "slug": "addiction",
+          "title": "The Acceleration of Addictiveness",
+          "date": "July 2010",
+          "url": "https://paulgraham.com/addiction.html",
+          "partId": "writing",
+          "partNumber": "IV",
+          "partTitle": "Writing and Thinking"
+        },
+        {
+          "slug": "tablets",
+          "title": "Tablets",
+          "date": "December 2010",
+          "url": "https://paulgraham.com/tablets.html",
+          "partId": "writing",
+          "partNumber": "IV",
+          "partTitle": "Writing and Thinking"
+        },
+        {
+          "slug": "patentpledge",
+          "title": "The Patent Pledge",
+          "date": "August 2011",
+          "url": "https://paulgraham.com/patentpledge.html",
+          "partId": "writing",
+          "partNumber": "IV",
+          "partTitle": "Writing and Thinking"
+        },
+        {
+          "slug": "word",
+          "title": "A Word to the Resourceful",
+          "date": "January 2012",
+          "url": "https://paulgraham.com/word.html",
+          "partId": "writing",
+          "partNumber": "IV",
+          "partTitle": "Writing and Thinking"
+        },
+        {
+          "slug": "property",
+          "title": "Defining Property",
+          "date": "March 2012",
+          "url": "https://paulgraham.com/property.html",
+          "partId": "writing",
+          "partNumber": "IV",
+          "partTitle": "Writing and Thinking"
+        },
+        {
+          "slug": "speak",
+          "title": "Writing and Speaking",
+          "date": "March 2012",
+          "url": "https://paulgraham.com/speak.html",
+          "partId": "writing",
+          "partNumber": "IV",
+          "partTitle": "Writing and Thinking"
+        },
+        {
+          "slug": "todo",
+          "title": "The Top of My Todo List",
+          "date": "April 2012",
+          "url": "https://paulgraham.com/todo.html",
+          "partId": "writing",
+          "partNumber": "IV",
+          "partTitle": "Writing and Thinking"
+        },
+        {
+          "slug": "mean",
+          "title": "Mean People Fail",
+          "date": "November 2014",
+          "url": "https://paulgraham.com/mean.html",
+          "partId": "writing",
+          "partNumber": "IV",
+          "partTitle": "Writing and Thinking"
+        },
+        {
+          "slug": "know",
+          "title": "How You Know",
+          "date": "December 2014",
+          "url": "https://paulgraham.com/know.html",
+          "partId": "writing",
+          "partNumber": "IV",
+          "partTitle": "Writing and Thinking"
+        },
+        {
+          "slug": "95",
+          "title": "Let the Other 95% of Great Programmers In",
+          "date": "December 2014",
+          "url": "https://paulgraham.com/95.html",
+          "partId": "writing",
+          "partNumber": "IV",
+          "partTitle": "Writing and Thinking"
+        },
+        {
+          "slug": "work",
+          "title": "What Doesn't Seem Like Work?",
+          "date": "January 2015",
+          "url": "https://paulgraham.com/work.html",
+          "partId": "writing",
+          "partNumber": "IV",
+          "partTitle": "Writing and Thinking"
+        },
+        {
+          "slug": "altair",
+          "title": "What Microsoft Is this the Altair Basic of?",
+          "date": "February 2015",
+          "url": "https://paulgraham.com/altair.html",
+          "partId": "writing",
+          "partNumber": "IV",
+          "partTitle": "Writing and Thinking"
+        },
+        {
+          "slug": "bias",
+          "title": "A Way to Detect Bias",
+          "date": "October 2015",
+          "url": "https://paulgraham.com/bias.html",
+          "partId": "writing",
+          "partNumber": "IV",
+          "partTitle": "Writing and Thinking"
+        },
+        {
+          "slug": "talk",
+          "title": "Write Like You Talk",
+          "date": "October 2015",
+          "url": "https://paulgraham.com/talk.html",
+          "partId": "writing",
+          "partNumber": "IV",
+          "partTitle": "Writing and Thinking"
+        },
+        {
+          "slug": "prop62",
+          "title": "This Year We Can End the Death Penalty in California",
+          "date": "November 2016",
+          "url": "https://paulgraham.com/prop62.html",
+          "partId": "writing",
+          "partNumber": "IV",
+          "partTitle": "Writing and Thinking"
+        },
+        {
+          "slug": "pow",
+          "title": "Charisma / Power",
+          "date": "January 2017",
+          "url": "https://paulgraham.com/pow.html",
+          "partId": "writing",
+          "partNumber": "IV",
+          "partTitle": "Writing and Thinking"
+        },
+        {
+          "slug": "disc",
+          "title": "The Risk of Discovery",
+          "date": "January 2017",
+          "url": "https://paulgraham.com/disc.html",
+          "partId": "writing",
+          "partNumber": "IV",
+          "partTitle": "Writing and Thinking"
+        },
+        {
+          "slug": "sun",
+          "title": "General and Surprising",
+          "date": "September 2017",
+          "url": "https://paulgraham.com/sun.html",
+          "partId": "writing",
+          "partNumber": "IV",
+          "partTitle": "Writing and Thinking"
+        },
+        {
+          "slug": "nov",
+          "title": "Novelty and Heresy",
+          "date": "November 2019",
+          "url": "https://paulgraham.com/nov.html",
+          "partId": "writing",
+          "partNumber": "IV",
+          "partTitle": "Writing and Thinking"
+        },
+        {
+          "slug": "genius",
+          "title": "The Bus Ticket Theory of Genius",
+          "date": "November 2019",
+          "url": "https://paulgraham.com/genius.html",
+          "partId": "writing",
+          "partNumber": "IV",
+          "partTitle": "Writing and Thinking"
+        },
+        {
+          "slug": "fp",
+          "title": "Fashionable Problems",
+          "date": "December 2019",
+          "url": "https://paulgraham.com/fp.html",
+          "partId": "writing",
+          "partNumber": "IV",
+          "partTitle": "Writing and Thinking"
+        },
+        {
+          "slug": "kids",
+          "title": "Having Kids",
+          "date": "December 2019",
+          "url": "https://paulgraham.com/kids.html",
+          "partId": "writing",
+          "partNumber": "IV",
+          "partTitle": "Writing and Thinking"
+        },
+        {
+          "slug": "lesson",
+          "title": "The Lesson to Unlearn",
+          "date": "December 2019",
+          "url": "https://paulgraham.com/lesson.html",
+          "partId": "writing",
+          "partNumber": "IV",
+          "partTitle": "Writing and Thinking"
+        },
+        {
+          "slug": "mod",
+          "title": "The Two Kinds of Moderate",
+          "date": "December 2019",
+          "url": "https://paulgraham.com/mod.html",
+          "partId": "writing",
+          "partNumber": "IV",
+          "partTitle": "Writing and Thinking"
+        },
+        {
+          "slug": "useful",
+          "title": "How to Write Usefully",
+          "date": "February 2020",
+          "url": "https://paulgraham.com/useful.html",
+          "partId": "writing",
+          "partNumber": "IV",
+          "partTitle": "Writing and Thinking"
+        },
+        {
+          "slug": "cred",
+          "title": "Coronavirus and Credibility",
+          "date": "April 2020",
+          "url": "https://paulgraham.com/cred.html",
+          "partId": "writing",
+          "partNumber": "IV",
+          "partTitle": "Writing and Thinking"
+        },
+        {
+          "slug": "orth",
+          "title": "Orthodox Privilege",
+          "date": "July 2020",
+          "url": "https://paulgraham.com/orth.html",
+          "partId": "writing",
+          "partNumber": "IV",
+          "partTitle": "Writing and Thinking"
+        },
+        {
+          "slug": "conformism",
+          "title": "The Four Quadrants of Conformism",
+          "date": "July 2020",
+          "url": "https://paulgraham.com/conformism.html",
+          "partId": "writing",
+          "partNumber": "IV",
+          "partTitle": "Writing and Thinking"
+        },
+        {
+          "slug": "early",
+          "title": "Early Work",
+          "date": "October 2020",
+          "url": "https://paulgraham.com/early.html",
+          "partId": "writing",
+          "partNumber": "IV",
+          "partTitle": "Writing and Thinking"
+        },
+        {
+          "slug": "think",
+          "title": "How to Think for Yourself",
+          "date": "November 2020",
+          "url": "https://paulgraham.com/think.html",
+          "partId": "writing",
+          "partNumber": "IV",
+          "partTitle": "Writing and Thinking"
+        },
+        {
+          "slug": "earnest",
+          "title": "Earnestness",
+          "date": "December 2020",
+          "url": "https://paulgraham.com/earnest.html",
+          "partId": "writing",
+          "partNumber": "IV",
+          "partTitle": "Writing and Thinking"
+        },
+        {
+          "slug": "worked",
+          "title": "What I Worked On",
+          "date": "February 2021",
+          "url": "https://paulgraham.com/worked.html",
+          "partId": "writing",
+          "partNumber": "IV",
+          "partTitle": "Writing and Thinking"
+        },
+        {
+          "slug": "simply",
+          "title": "Write Simply",
+          "date": "March 2021",
+          "url": "https://paulgraham.com/simply.html",
+          "partId": "writing",
+          "partNumber": "IV",
+          "partTitle": "Writing and Thinking"
+        },
+        {
+          "slug": "real",
+          "title": "The Real Reason to End the Death Penalty",
+          "date": "April 2021",
+          "url": "https://paulgraham.com/real.html",
+          "partId": "writing",
+          "partNumber": "IV",
+          "partTitle": "Writing and Thinking"
+        },
+        {
+          "slug": "own",
+          "title": "A Project of One's Own",
+          "date": "June 2021",
+          "url": "https://paulgraham.com/own.html",
+          "partId": "writing",
+          "partNumber": "IV",
+          "partTitle": "Writing and Thinking"
+        },
+        {
+          "slug": "smart",
+          "title": "Beyond Smart",
+          "date": "October 2021",
+          "url": "https://paulgraham.com/smart.html",
+          "partId": "writing",
+          "partNumber": "IV",
+          "partTitle": "Writing and Thinking"
+        },
+        {
+          "slug": "goodtaste",
+          "title": "Is There Such a Thing as Good Taste?",
+          "date": "November 2021",
+          "url": "https://paulgraham.com/goodtaste.html",
+          "partId": "writing",
+          "partNumber": "IV",
+          "partTitle": "Writing and Thinking"
+        },
+        {
+          "slug": "words",
+          "title": "Putting Ideas into Words",
+          "date": "February 2022",
+          "url": "https://paulgraham.com/words.html",
+          "partId": "writing",
+          "partNumber": "IV",
+          "partTitle": "Writing and Thinking"
+        },
+        {
+          "slug": "heresy",
+          "title": "Heresy",
+          "date": "April 2022",
+          "url": "https://paulgraham.com/heresy.html",
+          "partId": "writing",
+          "partNumber": "IV",
+          "partTitle": "Writing and Thinking"
+        },
+        {
+          "slug": "alien",
+          "title": "Alien Truth",
+          "date": "October 2022",
+          "url": "https://paulgraham.com/alien.html",
+          "partId": "writing",
+          "partNumber": "IV",
+          "partTitle": "Writing and Thinking"
+        },
+        {
+          "slug": "read",
+          "title": "The Need to Read",
+          "date": "November 2022",
+          "url": "https://paulgraham.com/read.html",
+          "partId": "writing",
+          "partNumber": "IV",
+          "partTitle": "Writing and Thinking"
+        },
+        {
+          "slug": "want",
+          "title": "What You (Want to)* Want",
+          "date": "November 2022",
+          "url": "https://paulgraham.com/want.html",
+          "partId": "writing",
+          "partNumber": "IV",
+          "partTitle": "Writing and Thinking"
+        },
+        {
+          "slug": "getideas",
+          "title": "How to Get New Ideas",
+          "date": "January 2023",
+          "url": "https://paulgraham.com/getideas.html",
+          "partId": "writing",
+          "partNumber": "IV",
+          "partTitle": "Writing and Thinking"
+        },
+        {
+          "slug": "best",
+          "title": "The Best Essay",
+          "date": "March 2024",
+          "url": "https://paulgraham.com/best.html",
+          "partId": "writing",
+          "partNumber": "IV",
+          "partTitle": "Writing and Thinking"
+        },
+        {
+          "slug": "writes",
+          "title": "Writes and Write-Nots",
+          "date": "October 2024",
+          "url": "https://paulgraham.com/writes.html",
+          "partId": "writing",
+          "partNumber": "IV",
+          "partTitle": "Writing and Thinking"
+        },
+        {
+          "slug": "goodwriting",
+          "title": "Good Writing",
+          "date": "May 2025",
+          "url": "https://paulgraham.com/goodwriting.html",
+          "partId": "writing",
+          "partNumber": "IV",
+          "partTitle": "Writing and Thinking"
+        },
+        {
+          "slug": "field",
+          "title": "The Shape of the Essay Field",
+          "date": "June 2025",
+          "url": "https://paulgraham.com/field.html",
+          "partId": "writing",
+          "partNumber": "IV",
+          "partTitle": "Writing and Thinking"
+        }
+      ]
+    },
+    {
+      "id": "life",
+      "number": "V",
+      "title": "Life and Society",
+      "subtitle": "Culture, education, and how to live",
+      "essays": [
+        {
+          "slug": "say",
+          "title": "What You Can't Say",
+          "date": "January 2004",
+          "url": "https://paulgraham.com/say.html",
+          "partId": "life",
+          "partNumber": "V",
+          "partTitle": "Life and Society"
+        },
+        {
+          "slug": "charisma",
+          "title": "It's Charisma, Stupid",
+          "date": "November 2004",
+          "url": "https://paulgraham.com/charisma.html",
+          "partId": "life",
+          "partNumber": "V",
+          "partTitle": "Life and Society"
+        },
+        {
+          "slug": "colleges",
+          "title": "News from the Front",
+          "date": "September 2007",
+          "url": "https://paulgraham.com/colleges.html",
+          "partId": "life",
+          "partNumber": "V",
+          "partTitle": "Life and Society"
+        },
+        {
+          "slug": "vb",
+          "title": "Life is Short",
+          "date": "January 2016",
+          "url": "https://paulgraham.com/vb.html",
+          "partId": "life",
+          "partNumber": "V",
+          "partTitle": "Life and Society"
+        },
+        {
+          "slug": "nft",
+          "title": "An NFT That Saves Lives",
+          "date": "May 2021",
+          "url": "https://paulgraham.com/nft.html",
+          "partId": "life",
+          "partNumber": "V",
+          "partTitle": "Life and Society"
+        },
+        {
+          "slug": "weird",
+          "title": "Weird Languages",
+          "date": "August 2021",
+          "url": "https://paulgraham.com/weird.html",
+          "partId": "life",
+          "partNumber": "V",
+          "partTitle": "Life and Society"
+        },
+        {
+          "slug": "woke",
+          "title": "The Origins of Wokeness",
+          "date": "January 2025",
+          "url": "https://paulgraham.com/woke.html",
+          "partId": "life",
+          "partNumber": "V",
+          "partTitle": "Life and Society"
+        },
+        {
+          "slug": "do",
+          "title": "What to Do",
+          "date": "March 2025",
+          "url": "https://paulgraham.com/do.html",
+          "partId": "life",
+          "partNumber": "V",
+          "partTitle": "Life and Society"
+        },
+        {
+          "slug": "brandage",
+          "title": "The Brand Age",
+          "date": "March 2026",
+          "url": "https://paulgraham.com/brandage.html",
+          "partId": "life",
+          "partNumber": "V",
+          "partTitle": "Life and Society"
+        }
+      ]
+    }
+  ],
+  "byDate": [
+    {
+      "slug": "avg",
+      "title": "Beating the Averages",
+      "date": "April 2001",
+      "url": "https://paulgraham.com/avg.html",
+      "partId": "life",
+      "partNumber": "V",
+      "partTitle": "Life and Society"
+    },
+    {
+      "slug": "javacover",
+      "title": "Java's Cover",
+      "date": "April 2001",
+      "url": "https://paulgraham.com/javacover.html",
+      "partId": "programming",
+      "partNumber": "III",
+      "partTitle": "Programming and Technology"
+    },
+    {
+      "slug": "lwba",
+      "title": "Lisp for Web-Based Applications",
+      "date": "April 2001",
+      "url": "https://paulgraham.com/lwba.html",
+      "partId": "programming",
+      "partNumber": "III",
+      "partTitle": "Programming and Technology"
+    },
+    {
+      "slug": "popular",
+      "title": "Being Popular",
+      "date": "May 2001",
+      "url": "https://paulgraham.com/popular.html",
+      "partId": "life",
+      "partNumber": "V",
+      "partTitle": "Life and Society"
+    },
+    {
+      "slug": "langdes",
+      "title": "Five Questions about Language Design",
+      "date": "May 2001",
+      "url": "https://paulgraham.com/langdes.html",
+      "partId": "programming",
+      "partNumber": "III",
+      "partTitle": "Programming and Technology"
+    },
+    {
+      "slug": "rootsoflisp",
+      "title": "The Roots of Lisp",
+      "date": "May 2001",
+      "url": "https://paulgraham.com/rootsoflisp.html",
+      "partId": "programming",
+      "partNumber": "III",
+      "partTitle": "Programming and Technology"
+    },
+    {
+      "slug": "road",
+      "title": "The Other Road Ahead",
+      "date": "September 2001",
+      "url": "https://paulgraham.com/road.html",
+      "partId": "life",
+      "partNumber": "V",
+      "partTitle": "Life and Society"
+    },
+    {
+      "slug": "diff",
+      "title": "What Made Lisp Different",
+      "date": "December 2001",
+      "url": "https://paulgraham.com/diff.html",
+      "partId": "programming",
+      "partNumber": "III",
+      "partTitle": "Programming and Technology"
+    },
+    {
+      "slug": "taste",
+      "title": "Taste for Makers",
+      "date": "February 2002",
+      "url": "https://paulgraham.com/taste.html",
+      "partId": "wealth",
+      "partNumber": "II",
+      "partTitle": "Wealth and Work"
+    },
+    {
+      "slug": "icad",
+      "title": "Revenge of the Nerds",
+      "date": "May 2002",
+      "url": "https://paulgraham.com/icad.html",
+      "partId": "programming",
+      "partNumber": "III",
+      "partTitle": "Programming and Technology"
+    },
+    {
+      "slug": "power",
+      "title": "Succinctness is Power",
+      "date": "May 2002",
+      "url": "https://paulgraham.com/power.html",
+      "partId": "life",
+      "partNumber": "V",
+      "partTitle": "Life and Society"
+    },
+    {
+      "slug": "spam",
+      "title": "A Plan for Spam",
+      "date": "August 2002",
+      "url": "https://paulgraham.com/spam.html",
+      "partId": "programming",
+      "partNumber": "III",
+      "partTitle": "Programming and Technology"
+    },
+    {
+      "slug": "better",
+      "title": "Better Bayesian Filtering",
+      "date": "January 2003",
+      "url": "https://paulgraham.com/better.html",
+      "partId": "programming",
+      "partNumber": "III",
+      "partTitle": "Programming and Technology"
+    },
+    {
+      "slug": "desres",
+      "title": "Design and Research",
+      "date": "January 2003",
+      "url": "https://paulgraham.com/desres.html",
+      "partId": "programming",
+      "partNumber": "III",
+      "partTitle": "Programming and Technology"
+    },
+    {
+      "slug": "nerds",
+      "title": "Why Nerds are Unpopular",
+      "date": "February 2003",
+      "url": "https://paulgraham.com/nerds.html",
+      "partId": "programming",
+      "partNumber": "III",
+      "partTitle": "Programming and Technology"
+    },
+    {
+      "slug": "hundred",
+      "title": "The Hundred-Year Language",
+      "date": "April 2003",
+      "url": "https://paulgraham.com/hundred.html",
+      "partId": "programming",
+      "partNumber": "III",
+      "partTitle": "Programming and Technology"
+    },
+    {
+      "slug": "hp",
+      "title": "Hackers and Painters",
+      "date": "May 2003",
+      "url": "https://paulgraham.com/hp.html",
+      "partId": "programming",
+      "partNumber": "III",
+      "partTitle": "Programming and Technology"
+    },
+    {
+      "slug": "iflisp",
+      "title": "If Lisp is So Great",
+      "date": "May 2003",
+      "url": "https://paulgraham.com/iflisp.html",
+      "partId": "programming",
+      "partNumber": "III",
+      "partTitle": "Programming and Technology"
+    },
+    {
+      "slug": "ffb",
+      "title": "Filters that Fight Back",
+      "date": "August 2003",
+      "url": "https://paulgraham.com/ffb.html",
+      "partId": "programming",
+      "partNumber": "III",
+      "partTitle": "Programming and Technology"
+    },
+    {
+      "slug": "say",
+      "title": "What You Can't Say",
+      "date": "January 2004",
+      "url": "https://paulgraham.com/say.html",
+      "partId": "life",
+      "partNumber": "V",
+      "partTitle": "Life and Society"
+    },
+    {
+      "slug": "gba",
+      "title": "The Word \"Hacker\"",
+      "date": "April 2004",
+      "url": "https://paulgraham.com/gba.html",
+      "partId": "programming",
+      "partNumber": "III",
+      "partTitle": "Programming and Technology"
+    },
+    {
+      "slug": "wealth",
+      "title": "How to Make Wealth",
+      "date": "May 2004",
+      "url": "https://paulgraham.com/wealth.html",
+      "partId": "wealth",
+      "partNumber": "II",
+      "partTitle": "Wealth and Work"
+    },
+    {
+      "slug": "gap",
+      "title": "Mind the Gap",
+      "date": "May 2004",
+      "url": "https://paulgraham.com/gap.html",
+      "partId": "life",
+      "partNumber": "V",
+      "partTitle": "Life and Society"
+    },
+    {
+      "slug": "gh",
+      "title": "Great Hackers",
+      "date": "July 2004",
+      "url": "https://paulgraham.com/gh.html",
+      "partId": "programming",
+      "partNumber": "III",
+      "partTitle": "Programming and Technology"
+    },
+    {
+      "slug": "pypar",
+      "title": "The Python Paradox",
+      "date": "August 2004",
+      "url": "https://paulgraham.com/pypar.html",
+      "partId": "programming",
+      "partNumber": "III",
+      "partTitle": "Programming and Technology"
+    },
+    {
+      "slug": "essay",
+      "title": "The Age of the Essay",
+      "date": "September 2004",
+      "url": "https://paulgraham.com/essay.html",
+      "partId": "writing",
+      "partNumber": "IV",
+      "partTitle": "Writing and Thinking"
+    },
+    {
+      "slug": "bubble",
+      "title": "What the Bubble Got Right",
+      "date": "September 2004",
+      "url": "https://paulgraham.com/bubble.html",
+      "partId": "life",
+      "partNumber": "V",
+      "partTitle": "Life and Society"
+    },
+    {
+      "slug": "laundry",
+      "title": "A Version 1.0",
+      "date": "October 2004",
+      "url": "https://paulgraham.com/laundry.html",
+      "partId": "life",
+      "partNumber": "V",
+      "partTitle": "Life and Society"
+    },
+    {
+      "slug": "polls",
+      "title": "Bradley's Ghost",
+      "date": "November 2004",
+      "url": "https://paulgraham.com/polls.html",
+      "partId": "life",
+      "partNumber": "V",
+      "partTitle": "Life and Society"
+    },
+    {
+      "slug": "charisma",
+      "title": "It's Charisma, Stupid",
+      "date": "November 2004",
+      "url": "https://paulgraham.com/charisma.html",
+      "partId": "life",
+      "partNumber": "V",
+      "partTitle": "Life and Society"
+    },
+    {
+      "slug": "usa",
+      "title": "Made in USA",
+      "date": "November 2004",
+      "url": "https://paulgraham.com/usa.html",
+      "partId": "life",
+      "partNumber": "V",
+      "partTitle": "Life and Society"
+    },
+    {
+      "slug": "hs",
+      "title": "What You'll Wish You'd Known",
+      "date": "January 2005",
+      "url": "https://paulgraham.com/hs.html",
+      "partId": "life",
+      "partNumber": "V",
+      "partTitle": "Life and Society"
+    },
+    {
+      "slug": "venturecapital",
+      "title": "A Unified Theory of VC Suckage",
+      "date": "March 2005",
+      "url": "https://paulgraham.com/venturecapital.html",
+      "partId": "startups",
+      "partNumber": "I",
+      "partTitle": "Startups"
+    },
+    {
+      "slug": "start",
+      "title": "How to Start a Startup",
+      "date": "March 2005",
+      "url": "https://paulgraham.com/start.html",
+      "partId": "startups",
+      "partNumber": "I",
+      "partTitle": "Startups"
+    },
+    {
+      "slug": "mac",
+      "title": "Return of the Mac",
+      "date": "March 2005",
+      "url": "https://paulgraham.com/mac.html",
+      "partId": "life",
+      "partNumber": "V",
+      "partTitle": "Life and Society"
+    },
+    {
+      "slug": "college",
+      "title": "Undergraduation",
+      "date": "March 2005",
+      "url": "https://paulgraham.com/college.html",
+      "partId": "life",
+      "partNumber": "V",
+      "partTitle": "Life and Society"
+    },
+    {
+      "slug": "writing44",
+      "title": "Writing,  Briefly",
+      "date": "March 2005",
+      "url": "https://paulgraham.com/writing44.html",
+      "partId": "life",
+      "partNumber": "V",
+      "partTitle": "Life and Society"
+    },
+    {
+      "slug": "submarine",
+      "title": "The Submarine",
+      "date": "April 2005",
+      "url": "https://paulgraham.com/submarine.html",
+      "partId": "life",
+      "partNumber": "V",
+      "partTitle": "Life and Society"
+    },
+    {
+      "slug": "bronze",
+      "title": "Why Smart People Have Bad Ideas",
+      "date": "April 2005",
+      "url": "https://paulgraham.com/bronze.html",
+      "partId": "writing",
+      "partNumber": "IV",
+      "partTitle": "Writing and Thinking"
+    },
+    {
+      "slug": "hiring",
+      "title": "Hiring is Obsolete",
+      "date": "May 2005",
+      "url": "https://paulgraham.com/hiring.html",
+      "partId": "life",
+      "partNumber": "V",
+      "partTitle": "Life and Society"
+    },
+    {
+      "slug": "ladder",
+      "title": "After the Ladder",
+      "date": "August 2005",
+      "url": "https://paulgraham.com/ladder.html",
+      "partId": "life",
+      "partNumber": "V",
+      "partTitle": "Life and Society"
+    },
+    {
+      "slug": "inequality",
+      "title": "Inequality and Risk",
+      "date": "August 2005",
+      "url": "https://paulgraham.com/inequality.html",
+      "partId": "wealth",
+      "partNumber": "II",
+      "partTitle": "Wealth and Work"
+    },
+    {
+      "slug": "opensource",
+      "title": "What Business Can Learn from Open Source",
+      "date": "August 2005",
+      "url": "https://paulgraham.com/opensource.html",
+      "partId": "wealth",
+      "partNumber": "II",
+      "partTitle": "Wealth and Work"
+    },
+    {
+      "slug": "ideas",
+      "title": "Ideas for Startups",
+      "date": "October 2005",
+      "url": "https://paulgraham.com/ideas.html",
+      "partId": "startups",
+      "partNumber": "I",
+      "partTitle": "Startups"
+    },
+    {
+      "slug": "sfp",
+      "title": "What I Did this Summer",
+      "date": "October 2005",
+      "url": "https://paulgraham.com/sfp.html",
+      "partId": "life",
+      "partNumber": "V",
+      "partTitle": "Life and Society"
+    },
+    {
+      "slug": "startupfunding",
+      "title": "How to Fund a Startup",
+      "date": "November 2005",
+      "url": "https://paulgraham.com/startupfunding.html",
+      "partId": "startups",
+      "partNumber": "I",
+      "partTitle": "Startups"
+    },
+    {
+      "slug": "vcsqueeze",
+      "title": "The Venture Capital Squeeze",
+      "date": "November 2005",
+      "url": "https://paulgraham.com/vcsqueeze.html",
+      "partId": "startups",
+      "partNumber": "I",
+      "partTitle": "Startups"
+    },
+    {
+      "slug": "web20",
+      "title": "Web 2.0",
+      "date": "November 2005",
+      "url": "https://paulgraham.com/web20.html",
+      "partId": "life",
+      "partNumber": "V",
+      "partTitle": "Life and Society"
+    },
+    {
+      "slug": "procrastination",
+      "title": "Good and Bad Procrastination",
+      "date": "December 2005",
+      "url": "https://paulgraham.com/procrastination.html",
+      "partId": "wealth",
+      "partNumber": "II",
+      "partTitle": "Wealth and Work"
+    },
+    {
+      "slug": "love",
+      "title": "How to Do What You Love",
+      "date": "January 2006",
+      "url": "https://paulgraham.com/love.html",
+      "partId": "life",
+      "partNumber": "V",
+      "partTitle": "Life and Society"
+    },
+    {
+      "slug": "6631327",
+      "title": "6,631,372",
+      "date": "March 2006",
+      "url": "https://paulgraham.com/6631327.html",
+      "partId": "life",
+      "partNumber": "V",
+      "partTitle": "Life and Society"
+    },
+    {
+      "slug": "softwarepatents",
+      "title": "Are Software Patents Evil?",
+      "date": "March 2006",
+      "url": "https://paulgraham.com/softwarepatents.html",
+      "partId": "programming",
+      "partNumber": "III",
+      "partTitle": "Programming and Technology"
+    },
+    {
+      "slug": "whyyc",
+      "title": "Why YC",
+      "date": "March 2006",
+      "url": "https://paulgraham.com/whyyc.html",
+      "partId": "life",
+      "partNumber": "V",
+      "partTitle": "Life and Society"
+    },
+    {
+      "slug": "randomness",
+      "title": "See Randomness",
+      "date": "April 2006",
+      "url": "https://paulgraham.com/randomness.html",
+      "partId": "life",
+      "partNumber": "V",
+      "partTitle": "Life and Society"
+    },
+    {
+      "slug": "startuplessons",
+      "title": "The Hardest Lessons for Startups to Learn",
+      "date": "April 2006",
+      "url": "https://paulgraham.com/startuplessons.html",
+      "partId": "startups",
+      "partNumber": "I",
+      "partTitle": "Startups"
+    },
+    {
+      "slug": "siliconvalley",
+      "title": "How to Be Silicon Valley",
+      "date": "May 2006",
+      "url": "https://paulgraham.com/siliconvalley.html",
+      "partId": "life",
+      "partNumber": "V",
+      "partTitle": "Life and Society"
+    },
+    {
+      "slug": "america",
+      "title": "Why Startups Condense in America",
+      "date": "May 2006",
+      "url": "https://paulgraham.com/america.html",
+      "partId": "startups",
+      "partNumber": "I",
+      "partTitle": "Startups"
+    },
+    {
+      "slug": "marginal",
+      "title": "The Power of the Marginal",
+      "date": "June 2006",
+      "url": "https://paulgraham.com/marginal.html",
+      "partId": "life",
+      "partNumber": "V",
+      "partTitle": "Life and Society"
+    },
+    {
+      "slug": "copy",
+      "title": "Copy What You Like",
+      "date": "July 2006",
+      "url": "https://paulgraham.com/copy.html",
+      "partId": "life",
+      "partNumber": "V",
+      "partTitle": "Life and Society"
+    },
+    {
+      "slug": "island",
+      "title": "The Island Test",
+      "date": "July 2006",
+      "url": "https://paulgraham.com/island.html",
+      "partId": "life",
+      "partNumber": "V",
+      "partTitle": "Life and Society"
+    },
+    {
+      "slug": "investors",
+      "title": "How to Present to Investors",
+      "date": "August 2006",
+      "url": "https://paulgraham.com/investors.html",
+      "partId": "startups",
+      "partNumber": "I",
+      "partTitle": "Startups"
+    },
+    {
+      "slug": "mit",
+      "title": "A Student's Guide to Startups",
+      "date": "October 2006",
+      "url": "https://paulgraham.com/mit.html",
+      "partId": "startups",
+      "partNumber": "I",
+      "partTitle": "Startups"
+    },
+    {
+      "slug": "startupmistakes",
+      "title": "The 18 Mistakes That Kill Startups",
+      "date": "October 2006",
+      "url": "https://paulgraham.com/startupmistakes.html",
+      "partId": "startups",
+      "partNumber": "I",
+      "partTitle": "Startups"
+    },
+    {
+      "slug": "goodart",
+      "title": "How Art Can Be Good",
+      "date": "December 2006",
+      "url": "https://paulgraham.com/goodart.html",
+      "partId": "life",
+      "partNumber": "V",
+      "partTitle": "Life and Society"
+    },
+    {
+      "slug": "foundersatwork",
+      "title": "Learning from Founders",
+      "date": "January 2007",
+      "url": "https://paulgraham.com/foundersatwork.html",
+      "partId": "startups",
+      "partNumber": "I",
+      "partTitle": "Startups"
+    },
+    {
+      "slug": "wisdom",
+      "title": "Is It Worth Being Wise?",
+      "date": "February 2007",
+      "url": "https://paulgraham.com/wisdom.html",
+      "partId": "life",
+      "partNumber": "V",
+      "partTitle": "Life and Society"
+    },
+    {
+      "slug": "notnot",
+      "title": "Why to Not Not Start a Startup",
+      "date": "March 2007",
+      "url": "https://paulgraham.com/notnot.html",
+      "partId": "startups",
+      "partNumber": "I",
+      "partTitle": "Startups"
+    },
+    {
+      "slug": "microsoft",
+      "title": "Microsoft is Dead",
+      "date": "April 2007",
+      "url": "https://paulgraham.com/microsoft.html",
+      "partId": "life",
+      "partNumber": "V",
+      "partTitle": "Life and Society"
+    },
+    {
+      "slug": "guidetoinvestors",
+      "title": "The Hacker's Guide to Investors",
+      "date": "April 2007",
+      "url": "https://paulgraham.com/guidetoinvestors.html",
+      "partId": "startups",
+      "partNumber": "I",
+      "partTitle": "Startups"
+    },
+    {
+      "slug": "judgement",
+      "title": "Two Kinds of Judgement",
+      "date": "April 2007",
+      "url": "https://paulgraham.com/judgement.html",
+      "partId": "life",
+      "partNumber": "V",
+      "partTitle": "Life and Society"
+    },
+    {
+      "slug": "unions",
+      "title": "An Alternative Theory of Unions",
+      "date": "May 2007",
+      "url": "https://paulgraham.com/unions.html",
+      "partId": "life",
+      "partNumber": "V",
+      "partTitle": "Life and Society"
+    },
+    {
+      "slug": "stuff",
+      "title": "Stuff",
+      "date": "July 2007",
+      "url": "https://paulgraham.com/stuff.html",
+      "partId": "life",
+      "partNumber": "V",
+      "partTitle": "Life and Society"
+    },
+    {
+      "slug": "equity",
+      "title": "The Equity Equation",
+      "date": "July 2007",
+      "url": "https://paulgraham.com/equity.html",
+      "partId": "life",
+      "partNumber": "V",
+      "partTitle": "Life and Society"
+    },
+    {
+      "slug": "head",
+      "title": "Holding a Program in One's Head",
+      "date": "August 2007",
+      "url": "https://paulgraham.com/head.html",
+      "partId": "programming",
+      "partNumber": "III",
+      "partTitle": "Programming and Technology"
+    },
+    {
+      "slug": "die",
+      "title": "How Not to Die",
+      "date": "August 2007",
+      "url": "https://paulgraham.com/die.html",
+      "partId": "life",
+      "partNumber": "V",
+      "partTitle": "Life and Society"
+    },
+    {
+      "slug": "philosophy",
+      "title": "How to Do Philosophy",
+      "date": "September 2007",
+      "url": "https://paulgraham.com/philosophy.html",
+      "partId": "writing",
+      "partNumber": "IV",
+      "partTitle": "Writing and Thinking"
+    },
+    {
+      "slug": "colleges",
+      "title": "News from the Front",
+      "date": "September 2007",
+      "url": "https://paulgraham.com/colleges.html",
+      "partId": "life",
+      "partNumber": "V",
+      "partTitle": "Life and Society"
+    },
+    {
+      "slug": "webstartups",
+      "title": "The Future of Web Startups",
+      "date": "October 2007",
+      "url": "https://paulgraham.com/webstartups.html",
+      "partId": "startups",
+      "partNumber": "I",
+      "partTitle": "Startups"
+    },
+    {
+      "slug": "startuphubs",
+      "title": "Why to Move to a Startup Hub",
+      "date": "October 2007",
+      "url": "https://paulgraham.com/startuphubs.html",
+      "partId": "startups",
+      "partNumber": "I",
+      "partTitle": "Startups"
+    },
+    {
+      "slug": "newthings",
+      "title": "Six Principles for Making New Things",
+      "date": "February 2008",
+      "url": "https://paulgraham.com/newthings.html",
+      "partId": "life",
+      "partNumber": "V",
+      "partTitle": "Life and Society"
+    },
+    {
+      "slug": "trolls",
+      "title": "Trolls",
+      "date": "February 2008",
+      "url": "https://paulgraham.com/trolls.html",
+      "partId": "life",
+      "partNumber": "V",
+      "partTitle": "Life and Society"
+    },
+    {
+      "slug": "ycombinator",
+      "title": "A New Venture Animal",
+      "date": "March 2008",
+      "url": "https://paulgraham.com/ycombinator.html",
+      "partId": "startups",
+      "partNumber": "I",
+      "partTitle": "Startups"
+    },
+    {
+      "slug": "disagree",
+      "title": "How to Disagree",
+      "date": "March 2008",
+      "url": "https://paulgraham.com/disagree.html",
+      "partId": "life",
+      "partNumber": "V",
+      "partTitle": "Life and Society"
+    },
+    {
+      "slug": "boss",
+      "title": "You Weren't Meant to Have a Boss",
+      "date": "March 2008",
+      "url": "https://paulgraham.com/boss.html",
+      "partId": "life",
+      "partNumber": "V",
+      "partTitle": "Life and Society"
+    },
+    {
+      "slug": "good",
+      "title": "Be Good",
+      "date": "April 2008",
+      "url": "https://paulgraham.com/good.html",
+      "partId": "life",
+      "partNumber": "V",
+      "partTitle": "Life and Society"
+    },
+    {
+      "slug": "heroes",
+      "title": "Some Heroes",
+      "date": "April 2008",
+      "url": "https://paulgraham.com/heroes.html",
+      "partId": "life",
+      "partNumber": "V",
+      "partTitle": "Life and Society"
+    },
+    {
+      "slug": "googles",
+      "title": "Why There Aren't More Googles",
+      "date": "April 2008",
+      "url": "https://paulgraham.com/googles.html",
+      "partId": "life",
+      "partNumber": "V",
+      "partTitle": "Life and Society"
+    },
+    {
+      "slug": "cities",
+      "title": "Cities and Ambition",
+      "date": "May 2008",
+      "url": "https://paulgraham.com/cities.html",
+      "partId": "life",
+      "partNumber": "V",
+      "partTitle": "Life and Society"
+    },
+    {
+      "slug": "distraction",
+      "title": "Disconnecting Distraction",
+      "date": "May 2008",
+      "url": "https://paulgraham.com/distraction.html",
+      "partId": "life",
+      "partNumber": "V",
+      "partTitle": "Life and Society"
+    },
+    {
+      "slug": "lies",
+      "title": "Lies We Tell Kids",
+      "date": "May 2008",
+      "url": "https://paulgraham.com/lies.html",
+      "partId": "life",
+      "partNumber": "V",
+      "partTitle": "Life and Society"
+    },
+    {
+      "slug": "prcmc",
+      "title": "The Pooled-Risk Company Management Company",
+      "date": "July 2008",
+      "url": "https://paulgraham.com/prcmc.html",
+      "partId": "life",
+      "partNumber": "V",
+      "partTitle": "Life and Society"
+    },
+    {
+      "slug": "fundraising",
+      "title": "A Fundraising Survival Guide",
+      "date": "August 2008",
+      "url": "https://paulgraham.com/fundraising.html",
+      "partId": "startups",
+      "partNumber": "I",
+      "partTitle": "Startups"
+    },
+    {
+      "slug": "badeconomy",
+      "title": "Why to Start a Startup in a Bad Economy",
+      "date": "October 2008",
+      "url": "https://paulgraham.com/badeconomy.html",
+      "partId": "startups",
+      "partNumber": "I",
+      "partTitle": "Startups"
+    },
+    {
+      "slug": "artistsship",
+      "title": "The Other Half of \"Artists Ship\"",
+      "date": "November 2008",
+      "url": "https://paulgraham.com/artistsship.html",
+      "partId": "life",
+      "partNumber": "V",
+      "partTitle": "Life and Society"
+    },
+    {
+      "slug": "credentials",
+      "title": "After Credentials",
+      "date": "December 2008",
+      "url": "https://paulgraham.com/credentials.html",
+      "partId": "life",
+      "partNumber": "V",
+      "partTitle": "Life and Society"
+    },
+    {
+      "slug": "divergence",
+      "title": "Could VC be a Casualty of the Recession?",
+      "date": "December 2008",
+      "url": "https://paulgraham.com/divergence.html",
+      "partId": "startups",
+      "partNumber": "I",
+      "partTitle": "Startups"
+    },
+    {
+      "slug": "highres",
+      "title": "The High-Res Society",
+      "date": "December 2008",
+      "url": "https://paulgraham.com/highres.html",
+      "partId": "life",
+      "partNumber": "V",
+      "partTitle": "Life and Society"
+    },
+    {
+      "slug": "maybe",
+      "title": "Can You Buy a Silicon Valley?  Maybe.",
+      "date": "February 2009",
+      "url": "https://paulgraham.com/maybe.html",
+      "partId": "life",
+      "partNumber": "V",
+      "partTitle": "Life and Society"
+    },
+    {
+      "slug": "identity",
+      "title": "Keep Your Identity Small",
+      "date": "February 2009",
+      "url": "https://paulgraham.com/identity.html",
+      "partId": "life",
+      "partNumber": "V",
+      "partTitle": "Life and Society"
+    },
+    {
+      "slug": "13sentences",
+      "title": "Startups in 13 Sentences",
+      "date": "February 2009",
+      "url": "https://paulgraham.com/13sentences.html",
+      "partId": "startups",
+      "partNumber": "I",
+      "partTitle": "Startups"
+    },
+    {
+      "slug": "hackernews",
+      "title": "What I've Learned from Hacker News",
+      "date": "February 2009",
+      "url": "https://paulgraham.com/hackernews.html",
+      "partId": "wealth",
+      "partNumber": "II",
+      "partTitle": "Wealth and Work"
+    },
+    {
+      "slug": "angelinvesting",
+      "title": "How to Be an Angel Investor",
+      "date": "March 2009",
+      "url": "https://paulgraham.com/angelinvesting.html",
+      "partId": "startups",
+      "partNumber": "I",
+      "partTitle": "Startups"
+    },
+    {
+      "slug": "relres",
+      "title": "Relentlessly Resourceful",
+      "date": "March 2009",
+      "url": "https://paulgraham.com/relres.html",
+      "partId": "life",
+      "partNumber": "V",
+      "partTitle": "Life and Society"
+    },
+    {
+      "slug": "convergence",
+      "title": "Why TV Lost",
+      "date": "March 2009",
+      "url": "https://paulgraham.com/convergence.html",
+      "partId": "life",
+      "partNumber": "V",
+      "partTitle": "Life and Society"
+    },
+    {
+      "slug": "revolution",
+      "title": "A Local Revolution?",
+      "date": "April 2009",
+      "url": "https://paulgraham.com/revolution.html",
+      "partId": "life",
+      "partNumber": "V",
+      "partTitle": "Life and Society"
+    },
+    {
+      "slug": "5founders",
+      "title": "Five Founders",
+      "date": "April 2009",
+      "url": "https://paulgraham.com/5founders.html",
+      "partId": "startups",
+      "partNumber": "I",
+      "partTitle": "Startups"
+    },
+    {
+      "slug": "foundervisa",
+      "title": "The Founder Visa",
+      "date": "April 2009",
+      "url": "https://paulgraham.com/foundervisa.html",
+      "partId": "startups",
+      "partNumber": "I",
+      "partTitle": "Startups"
+    },
+    {
+      "slug": "twitter",
+      "title": "Why Twitter is a Big Deal",
+      "date": "April 2009",
+      "url": "https://paulgraham.com/twitter.html",
+      "partId": "life",
+      "partNumber": "V",
+      "partTitle": "Life and Society"
+    },
+    {
+      "slug": "makersschedule",
+      "title": "Maker's Schedule, Manager's Schedule",
+      "date": "July 2009",
+      "url": "https://paulgraham.com/makersschedule.html",
+      "partId": "wealth",
+      "partNumber": "II",
+      "partTitle": "Wealth and Work"
+    },
+    {
+      "slug": "ramenprofitable",
+      "title": "Ramen Profitable",
+      "date": "July 2009",
+      "url": "https://paulgraham.com/ramenprofitable.html",
+      "partId": "startups",
+      "partNumber": "I",
+      "partTitle": "Startups"
+    },
+    {
+      "slug": "segway",
+      "title": "The Trouble with the Segway",
+      "date": "July 2009",
+      "url": "https://paulgraham.com/segway.html",
+      "partId": "life",
+      "partNumber": "V",
+      "partTitle": "Life and Society"
+    },
+    {
+      "slug": "kate",
+      "title": "What Kate Saw in Silicon Valley",
+      "date": "August 2009",
+      "url": "https://paulgraham.com/kate.html",
+      "partId": "life",
+      "partNumber": "V",
+      "partTitle": "Life and Society"
+    },
+    {
+      "slug": "discover",
+      "title": "Persuade xor Discover",
+      "date": "September 2009",
+      "url": "https://paulgraham.com/discover.html",
+      "partId": "life",
+      "partNumber": "V",
+      "partTitle": "Life and Society"
+    },
+    {
+      "slug": "publishing",
+      "title": "Post-Medium Publishing",
+      "date": "September 2009",
+      "url": "https://paulgraham.com/publishing.html",
+      "partId": "life",
+      "partNumber": "V",
+      "partTitle": "Life and Society"
+    },
+    {
+      "slug": "determination",
+      "title": "The Anatomy of Determination",
+      "date": "September 2009",
+      "url": "https://paulgraham.com/determination.html",
+      "partId": "life",
+      "partNumber": "V",
+      "partTitle": "Life and Society"
+    },
+    {
+      "slug": "nthings",
+      "title": "The List of N Things",
+      "date": "September 2009",
+      "url": "https://paulgraham.com/nthings.html",
+      "partId": "life",
+      "partNumber": "V",
+      "partTitle": "Life and Society"
+    },
+    {
+      "slug": "really",
+      "title": "What Startups Are Really Like",
+      "date": "October 2009",
+      "url": "https://paulgraham.com/really.html",
+      "partId": "startups",
+      "partNumber": "I",
+      "partTitle": "Startups"
+    },
+    {
+      "slug": "apple",
+      "title": "Apple's Mistake",
+      "date": "November 2009",
+      "url": "https://paulgraham.com/apple.html",
+      "partId": "life",
+      "partNumber": "V",
+      "partTitle": "Life and Society"
+    },
+    {
+      "slug": "organic",
+      "title": "Organic Startup Ideas",
+      "date": "April 2010",
+      "url": "https://paulgraham.com/organic.html",
+      "partId": "startups",
+      "partNumber": "I",
+      "partTitle": "Startups"
+    },
+    {
+      "slug": "selfindulgence",
+      "title": "How to Lose Time and Money",
+      "date": "July 2010",
+      "url": "https://paulgraham.com/selfindulgence.html",
+      "partId": "wealth",
+      "partNumber": "II",
+      "partTitle": "Wealth and Work"
+    },
+    {
+      "slug": "addiction",
+      "title": "The Acceleration of Addictiveness",
+      "date": "July 2010",
+      "url": "https://paulgraham.com/addiction.html",
+      "partId": "life",
+      "partNumber": "V",
+      "partTitle": "Life and Society"
+    },
+    {
+      "slug": "top",
+      "title": "The Top Idea in Your Mind",
+      "date": "July 2010",
+      "url": "https://paulgraham.com/top.html",
+      "partId": "writing",
+      "partNumber": "IV",
+      "partTitle": "Writing and Thinking"
+    },
+    {
+      "slug": "future",
+      "title": "The Future of Startup Funding",
+      "date": "August 2010",
+      "url": "https://paulgraham.com/future.html",
+      "partId": "startups",
+      "partNumber": "I",
+      "partTitle": "Startups"
+    },
+    {
+      "slug": "yahoo",
+      "title": "What Happened to Yahoo",
+      "date": "August 2010",
+      "url": "https://paulgraham.com/yahoo.html",
+      "partId": "life",
+      "partNumber": "V",
+      "partTitle": "Life and Society"
+    },
+    {
+      "slug": "hiresfund",
+      "title": "High Resolution Fundraising",
+      "date": "September 2010",
+      "url": "https://paulgraham.com/hiresfund.html",
+      "partId": "startups",
+      "partNumber": "I",
+      "partTitle": "Startups"
+    },
+    {
+      "slug": "superangels",
+      "title": "The New Funding Landscape",
+      "date": "October 2010",
+      "url": "https://paulgraham.com/superangels.html",
+      "partId": "startups",
+      "partNumber": "I",
+      "partTitle": "Startups"
+    },
+    {
+      "slug": "founders",
+      "title": "What We Look for in Founders",
+      "date": "October 2010",
+      "url": "https://paulgraham.com/founders.html",
+      "partId": "startups",
+      "partNumber": "I",
+      "partTitle": "Startups"
+    },
+    {
+      "slug": "seesv",
+      "title": "Where to See Silicon Valley",
+      "date": "October 2010",
+      "url": "https://paulgraham.com/seesv.html",
+      "partId": "life",
+      "partNumber": "V",
+      "partTitle": "Life and Society"
+    },
+    {
+      "slug": "control",
+      "title": "Founder Control",
+      "date": "December 2010",
+      "url": "https://paulgraham.com/control.html",
+      "partId": "startups",
+      "partNumber": "I",
+      "partTitle": "Startups"
+    },
+    {
+      "slug": "tablets",
+      "title": "Tablets",
+      "date": "December 2010",
+      "url": "https://paulgraham.com/tablets.html",
+      "partId": "life",
+      "partNumber": "V",
+      "partTitle": "Life and Society"
+    },
+    {
+      "slug": "airbnb",
+      "title": "Subject: Airbnb",
+      "date": "March 2011",
+      "url": "https://paulgraham.com/airbnb.html",
+      "partId": "startups",
+      "partNumber": "I",
+      "partTitle": "Startups"
+    },
+    {
+      "slug": "patentpledge",
+      "title": "The Patent Pledge",
+      "date": "August 2011",
+      "url": "https://paulgraham.com/patentpledge.html",
+      "partId": "life",
+      "partNumber": "V",
+      "partTitle": "Life and Society"
+    },
+    {
+      "slug": "hubs",
+      "title": "Why Startup Hubs Work",
+      "date": "October 2011",
+      "url": "https://paulgraham.com/hubs.html",
+      "partId": "startups",
+      "partNumber": "I",
+      "partTitle": "Startups"
+    },
+    {
+      "slug": "word",
+      "title": "A Word to the Resourceful",
+      "date": "January 2012",
+      "url": "https://paulgraham.com/word.html",
+      "partId": "writing",
+      "partNumber": "IV",
+      "partTitle": "Writing and Thinking"
+    },
+    {
+      "slug": "schlep",
+      "title": "Schlep Blindness",
+      "date": "January 2012",
+      "url": "https://paulgraham.com/schlep.html",
+      "partId": "startups",
+      "partNumber": "I",
+      "partTitle": "Startups"
+    },
+    {
+      "slug": "vw",
+      "title": "Snapshot: Viaweb, June 1998",
+      "date": "January 2012",
+      "url": "https://paulgraham.com/vw.html",
+      "partId": "startups",
+      "partNumber": "I",
+      "partTitle": "Startups"
+    },
+    {
+      "slug": "property",
+      "title": "Defining Property",
+      "date": "March 2012",
+      "url": "https://paulgraham.com/property.html",
+      "partId": "life",
+      "partNumber": "V",
+      "partTitle": "Life and Society"
+    },
+    {
+      "slug": "ambitious",
+      "title": "Frighteningly Ambitious Startup Ideas",
+      "date": "March 2012",
+      "url": "https://paulgraham.com/ambitious.html",
+      "partId": "startups",
+      "partNumber": "I",
+      "partTitle": "Startups"
+    },
+    {
+      "slug": "ycstart",
+      "title": "How Y Combinator Started",
+      "date": "March 2012",
+      "url": "https://paulgraham.com/ycstart.html",
+      "partId": "life",
+      "partNumber": "V",
+      "partTitle": "Life and Society"
+    },
+    {
+      "slug": "speak",
+      "title": "Writing and Speaking",
+      "date": "March 2012",
+      "url": "https://paulgraham.com/speak.html",
+      "partId": "life",
+      "partNumber": "V",
+      "partTitle": "Life and Society"
+    },
+    {
+      "slug": "todo",
+      "title": "The Top of My Todo List",
+      "date": "April 2012",
+      "url": "https://paulgraham.com/todo.html",
+      "partId": "life",
+      "partNumber": "V",
+      "partTitle": "Life and Society"
+    },
+    {
+      "slug": "swan",
+      "title": "Black Swan Farming",
+      "date": "September 2012",
+      "url": "https://paulgraham.com/swan.html",
+      "partId": "life",
+      "partNumber": "V",
+      "partTitle": "Life and Society"
+    },
+    {
+      "slug": "growth",
+      "title": "Startup = Growth",
+      "date": "September 2012",
+      "url": "https://paulgraham.com/growth.html",
+      "partId": "startups",
+      "partNumber": "I",
+      "partTitle": "Startups"
+    },
+    {
+      "slug": "hw",
+      "title": "The Hardware Renaissance",
+      "date": "October 2012",
+      "url": "https://paulgraham.com/hw.html",
+      "partId": "life",
+      "partNumber": "V",
+      "partTitle": "Life and Society"
+    },
+    {
+      "slug": "startupideas",
+      "title": "How to Get Startup Ideas",
+      "date": "November 2012",
+      "url": "https://paulgraham.com/startupideas.html",
+      "partId": "startups",
+      "partNumber": "I",
+      "partTitle": "Startups"
+    },
+    {
+      "slug": "invtrend",
+      "title": "Startup Investing Trends",
+      "date": "June 2013",
+      "url": "https://paulgraham.com/invtrend.html",
+      "partId": "startups",
+      "partNumber": "I",
+      "partTitle": "Startups"
+    },
+    {
+      "slug": "ds",
+      "title": "Do Things that Don't Scale",
+      "date": "July 2013",
+      "url": "https://paulgraham.com/ds.html",
+      "partId": "startups",
+      "partNumber": "I",
+      "partTitle": "Startups"
+    },
+    {
+      "slug": "convince",
+      "title": "How to Convince Investors",
+      "date": "August 2013",
+      "url": "https://paulgraham.com/convince.html",
+      "partId": "startups",
+      "partNumber": "I",
+      "partTitle": "Startups"
+    },
+    {
+      "slug": "herd",
+      "title": "Investor Herd Dynamics",
+      "date": "August 2013",
+      "url": "https://paulgraham.com/herd.html",
+      "partId": "startups",
+      "partNumber": "I",
+      "partTitle": "Startups"
+    },
+    {
+      "slug": "fr",
+      "title": "How to Raise Money",
+      "date": "September 2013",
+      "url": "https://paulgraham.com/fr.html",
+      "partId": "wealth",
+      "partNumber": "II",
+      "partTitle": "Wealth and Work"
+    },
+    {
+      "slug": "before",
+      "title": "Before the Startup",
+      "date": "October 2014",
+      "url": "https://paulgraham.com/before.html",
+      "partId": "startups",
+      "partNumber": "I",
+      "partTitle": "Startups"
+    },
+    {
+      "slug": "mean",
+      "title": "Mean People Fail",
+      "date": "November 2014",
+      "url": "https://paulgraham.com/mean.html",
+      "partId": "life",
+      "partNumber": "V",
+      "partTitle": "Life and Society"
+    },
+    {
+      "slug": "ecw",
+      "title": "How to Be an Expert in a Changing World",
+      "date": "December 2014",
+      "url": "https://paulgraham.com/ecw.html",
+      "partId": "life",
+      "partNumber": "V",
+      "partTitle": "Life and Society"
+    },
+    {
+      "slug": "know",
+      "title": "How You Know",
+      "date": "December 2014",
+      "url": "https://paulgraham.com/know.html",
+      "partId": "life",
+      "partNumber": "V",
+      "partTitle": "Life and Society"
+    },
+    {
+      "slug": "95",
+      "title": "Let the Other 95% of Great Programmers In",
+      "date": "December 2014",
+      "url": "https://paulgraham.com/95.html",
+      "partId": "programming",
+      "partNumber": "III",
+      "partTitle": "Programming and Technology"
+    },
+    {
+      "slug": "pinch",
+      "title": "The Fatal Pinch",
+      "date": "December 2014",
+      "url": "https://paulgraham.com/pinch.html",
+      "partId": "life",
+      "partNumber": "V",
+      "partTitle": "Life and Society"
+    },
+    {
+      "slug": "corpdev",
+      "title": "Don't Talk to Corp Dev",
+      "date": "January 2015",
+      "url": "https://paulgraham.com/corpdev.html",
+      "partId": "writing",
+      "partNumber": "IV",
+      "partTitle": "Writing and Thinking"
+    },
+    {
+      "slug": "ronco",
+      "title": "The Ronco Principle",
+      "date": "January 2015",
+      "url": "https://paulgraham.com/ronco.html",
+      "partId": "life",
+      "partNumber": "V",
+      "partTitle": "Life and Society"
+    },
+    {
+      "slug": "work",
+      "title": "What Doesn't Seem Like Work?",
+      "date": "January 2015",
+      "url": "https://paulgraham.com/work.html",
+      "partId": "wealth",
+      "partNumber": "II",
+      "partTitle": "Wealth and Work"
+    },
+    {
+      "slug": "altair",
+      "title": "What Microsoft Is this the Altair Basic of?",
+      "date": "February 2015",
+      "url": "https://paulgraham.com/altair.html",
+      "partId": "life",
+      "partNumber": "V",
+      "partTitle": "Life and Society"
+    },
+    {
+      "slug": "name",
+      "title": "Change Your Name",
+      "date": "August 2015",
+      "url": "https://paulgraham.com/name.html",
+      "partId": "life",
+      "partNumber": "V",
+      "partTitle": "Life and Society"
+    },
+    {
+      "slug": "safe",
+      "title": "Why It's Safe for Founders to Be Nice",
+      "date": "August 2015",
+      "url": "https://paulgraham.com/safe.html",
+      "partId": "startups",
+      "partNumber": "I",
+      "partTitle": "Startups"
+    },
+    {
+      "slug": "bias",
+      "title": "A Way to Detect Bias",
+      "date": "October 2015",
+      "url": "https://paulgraham.com/bias.html",
+      "partId": "life",
+      "partNumber": "V",
+      "partTitle": "Life and Society"
+    },
+    {
+      "slug": "aord",
+      "title": "Default Alive or Default Dead?",
+      "date": "October 2015",
+      "url": "https://paulgraham.com/aord.html",
+      "partId": "life",
+      "partNumber": "V",
+      "partTitle": "Life and Society"
+    },
+    {
+      "slug": "talk",
+      "title": "Write Like You Talk",
+      "date": "October 2015",
+      "url": "https://paulgraham.com/talk.html",
+      "partId": "writing",
+      "partNumber": "IV",
+      "partTitle": "Writing and Thinking"
+    },
+    {
+      "slug": "jessica",
+      "title": "Jessica Livingston",
+      "date": "November 2015",
+      "url": "https://paulgraham.com/jessica.html",
+      "partId": "life",
+      "partNumber": "V",
+      "partTitle": "Life and Society"
+    },
+    {
+      "slug": "ineq",
+      "title": "Economic Inequality",
+      "date": "January 2016",
+      "url": "https://paulgraham.com/ineq.html",
+      "partId": "wealth",
+      "partNumber": "II",
+      "partTitle": "Wealth and Work"
+    },
+    {
+      "slug": "vb",
+      "title": "Life is Short",
+      "date": "January 2016",
+      "url": "https://paulgraham.com/vb.html",
+      "partId": "life",
+      "partNumber": "V",
+      "partTitle": "Life and Society"
+    },
+    {
+      "slug": "re",
+      "title": "The Refragmentation",
+      "date": "January 2016",
+      "url": "https://paulgraham.com/re.html",
+      "partId": "life",
+      "partNumber": "V",
+      "partTitle": "Life and Society"
+    },
+    {
+      "slug": "pgh",
+      "title": "How to Make Pittsburgh a Startup Hub",
+      "date": "April 2016",
+      "url": "https://paulgraham.com/pgh.html",
+      "partId": "startups",
+      "partNumber": "I",
+      "partTitle": "Startups"
+    },
+    {
+      "slug": "prop62",
+      "title": "This Year We Can End the Death Penalty in California",
+      "date": "November 2016",
+      "url": "https://paulgraham.com/prop62.html",
+      "partId": "life",
+      "partNumber": "V",
+      "partTitle": "Life and Society"
+    },
+    {
+      "slug": "pow",
+      "title": "Charisma / Power",
+      "date": "January 2017",
+      "url": "https://paulgraham.com/pow.html",
+      "partId": "life",
+      "partNumber": "V",
+      "partTitle": "Life and Society"
+    },
+    {
+      "slug": "disc",
+      "title": "The Risk of Discovery",
+      "date": "January 2017",
+      "url": "https://paulgraham.com/disc.html",
+      "partId": "life",
+      "partNumber": "V",
+      "partTitle": "Life and Society"
+    },
+    {
+      "slug": "sun",
+      "title": "General and Surprising",
+      "date": "September 2017",
+      "url": "https://paulgraham.com/sun.html",
+      "partId": "life",
+      "partNumber": "V",
+      "partTitle": "Life and Society"
+    },
+    {
+      "slug": "nov",
+      "title": "Novelty and Heresy",
+      "date": "November 2019",
+      "url": "https://paulgraham.com/nov.html",
+      "partId": "life",
+      "partNumber": "V",
+      "partTitle": "Life and Society"
+    },
+    {
+      "slug": "genius",
+      "title": "The Bus Ticket Theory of Genius",
+      "date": "November 2019",
+      "url": "https://paulgraham.com/genius.html",
+      "partId": "life",
+      "partNumber": "V",
+      "partTitle": "Life and Society"
+    },
+    {
+      "slug": "fp",
+      "title": "Fashionable Problems",
+      "date": "December 2019",
+      "url": "https://paulgraham.com/fp.html",
+      "partId": "life",
+      "partNumber": "V",
+      "partTitle": "Life and Society"
+    },
+    {
+      "slug": "kids",
+      "title": "Having Kids",
+      "date": "December 2019",
+      "url": "https://paulgraham.com/kids.html",
+      "partId": "life",
+      "partNumber": "V",
+      "partTitle": "Life and Society"
+    },
+    {
+      "slug": "lesson",
+      "title": "The Lesson to Unlearn",
+      "date": "December 2019",
+      "url": "https://paulgraham.com/lesson.html",
+      "partId": "wealth",
+      "partNumber": "II",
+      "partTitle": "Wealth and Work"
+    },
+    {
+      "slug": "mod",
+      "title": "The Two Kinds of Moderate",
+      "date": "December 2019",
+      "url": "https://paulgraham.com/mod.html",
+      "partId": "life",
+      "partNumber": "V",
+      "partTitle": "Life and Society"
+    },
+    {
+      "slug": "noob",
+      "title": "Being a Noob",
+      "date": "January 2020",
+      "url": "https://paulgraham.com/noob.html",
+      "partId": "life",
+      "partNumber": "V",
+      "partTitle": "Life and Society"
+    },
+    {
+      "slug": "fh",
+      "title": "Haters",
+      "date": "January 2020",
+      "url": "https://paulgraham.com/fh.html",
+      "partId": "life",
+      "partNumber": "V",
+      "partTitle": "Life and Society"
+    },
+    {
+      "slug": "useful",
+      "title": "How to Write Usefully",
+      "date": "February 2020",
+      "url": "https://paulgraham.com/useful.html",
+      "partId": "writing",
+      "partNumber": "IV",
+      "partTitle": "Writing and Thinking"
+    },
+    {
+      "slug": "cred",
+      "title": "Coronavirus and Credibility",
+      "date": "April 2020",
+      "url": "https://paulgraham.com/cred.html",
+      "partId": "life",
+      "partNumber": "V",
+      "partTitle": "Life and Society"
+    },
+    {
+      "slug": "orth",
+      "title": "Orthodox Privilege",
+      "date": "July 2020",
+      "url": "https://paulgraham.com/orth.html",
+      "partId": "life",
+      "partNumber": "V",
+      "partTitle": "Life and Society"
+    },
+    {
+      "slug": "conformism",
+      "title": "The Four Quadrants of Conformism",
+      "date": "July 2020",
+      "url": "https://paulgraham.com/conformism.html",
+      "partId": "life",
+      "partNumber": "V",
+      "partTitle": "Life and Society"
+    },
+    {
+      "slug": "wtax",
+      "title": "Modeling a Wealth Tax",
+      "date": "August 2020",
+      "url": "https://paulgraham.com/wtax.html",
+      "partId": "wealth",
+      "partNumber": "II",
+      "partTitle": "Wealth and Work"
+    },
+    {
+      "slug": "early",
+      "title": "Early Work",
+      "date": "October 2020",
+      "url": "https://paulgraham.com/early.html",
+      "partId": "wealth",
+      "partNumber": "II",
+      "partTitle": "Wealth and Work"
+    },
+    {
+      "slug": "think",
+      "title": "How to Think for Yourself",
+      "date": "November 2020",
+      "url": "https://paulgraham.com/think.html",
+      "partId": "writing",
+      "partNumber": "IV",
+      "partTitle": "Writing and Thinking"
+    },
+    {
+      "slug": "ace",
+      "title": "Billionaires Build",
+      "date": "December 2020",
+      "url": "https://paulgraham.com/ace.html",
+      "partId": "wealth",
+      "partNumber": "II",
+      "partTitle": "Wealth and Work"
+    },
+    {
+      "slug": "earnest",
+      "title": "Earnestness",
+      "date": "December 2020",
+      "url": "https://paulgraham.com/earnest.html",
+      "partId": "wealth",
+      "partNumber": "II",
+      "partTitle": "Wealth and Work"
+    },
+    {
+      "slug": "airbnbs",
+      "title": "The Airbnbs",
+      "date": "December 2020",
+      "url": "https://paulgraham.com/airbnbs.html",
+      "partId": "startups",
+      "partNumber": "I",
+      "partTitle": "Startups"
+    },
+    {
+      "slug": "worked",
+      "title": "What I Worked On",
+      "date": "February 2021",
+      "url": "https://paulgraham.com/worked.html",
+      "partId": "wealth",
+      "partNumber": "II",
+      "partTitle": "Wealth and Work"
+    },
+    {
+      "slug": "donate",
+      "title": "Donate Unrestricted",
+      "date": "March 2021",
+      "url": "https://paulgraham.com/donate.html",
+      "partId": "life",
+      "partNumber": "V",
+      "partTitle": "Life and Society"
+    },
+    {
+      "slug": "simply",
+      "title": "Write Simply",
+      "date": "March 2021",
+      "url": "https://paulgraham.com/simply.html",
+      "partId": "writing",
+      "partNumber": "IV",
+      "partTitle": "Writing and Thinking"
+    },
+    {
+      "slug": "richnow",
+      "title": "How People Get Rich Now",
+      "date": "April 2021",
+      "url": "https://paulgraham.com/richnow.html",
+      "partId": "wealth",
+      "partNumber": "II",
+      "partTitle": "Wealth and Work"
+    },
+    {
+      "slug": "real",
+      "title": "The Real Reason to End the Death Penalty",
+      "date": "April 2021",
+      "url": "https://paulgraham.com/real.html",
+      "partId": "life",
+      "partNumber": "V",
+      "partTitle": "Life and Society"
+    },
+    {
+      "slug": "nft",
+      "title": "An NFT That Saves Lives",
+      "date": "May 2021",
+      "url": "https://paulgraham.com/nft.html",
+      "partId": "life",
+      "partNumber": "V",
+      "partTitle": "Life and Society"
+    },
+    {
+      "slug": "newideas",
+      "title": "Crazy New Ideas",
+      "date": "May 2021",
+      "url": "https://paulgraham.com/newideas.html",
+      "partId": "writing",
+      "partNumber": "IV",
+      "partTitle": "Writing and Thinking"
+    },
+    {
+      "slug": "fn",
+      "title": "Fierce Nerds",
+      "date": "May 2021",
+      "url": "https://paulgraham.com/fn.html",
+      "partId": "programming",
+      "partNumber": "III",
+      "partTitle": "Programming and Technology"
+    },
+    {
+      "slug": "own",
+      "title": "A Project of One's Own",
+      "date": "June 2021",
+      "url": "https://paulgraham.com/own.html",
+      "partId": "life",
+      "partNumber": "V",
+      "partTitle": "Life and Society"
+    },
+    {
+      "slug": "hwh",
+      "title": "How to Work Hard",
+      "date": "June 2021",
+      "url": "https://paulgraham.com/hwh.html",
+      "partId": "wealth",
+      "partNumber": "II",
+      "partTitle": "Wealth and Work"
+    },
+    {
+      "slug": "weird",
+      "title": "Weird Languages",
+      "date": "August 2021",
+      "url": "https://paulgraham.com/weird.html",
+      "partId": "programming",
+      "partNumber": "III",
+      "partTitle": "Programming and Technology"
+    },
+    {
+      "slug": "smart",
+      "title": "Beyond Smart",
+      "date": "October 2021",
+      "url": "https://paulgraham.com/smart.html",
+      "partId": "writing",
+      "partNumber": "IV",
+      "partTitle": "Writing and Thinking"
+    },
+    {
+      "slug": "goodtaste",
+      "title": "Is There Such a Thing as Good Taste?",
+      "date": "November 2021",
+      "url": "https://paulgraham.com/goodtaste.html",
+      "partId": "writing",
+      "partNumber": "IV",
+      "partTitle": "Writing and Thinking"
+    },
+    {
+      "slug": "words",
+      "title": "Putting Ideas into Words",
+      "date": "February 2022",
+      "url": "https://paulgraham.com/words.html",
+      "partId": "writing",
+      "partNumber": "IV",
+      "partTitle": "Writing and Thinking"
+    },
+    {
+      "slug": "heresy",
+      "title": "Heresy",
+      "date": "April 2022",
+      "url": "https://paulgraham.com/heresy.html",
+      "partId": "life",
+      "partNumber": "V",
+      "partTitle": "Life and Society"
+    },
+    {
+      "slug": "users",
+      "title": "What I've Learned from Users",
+      "date": "September 2022",
+      "url": "https://paulgraham.com/users.html",
+      "partId": "wealth",
+      "partNumber": "II",
+      "partTitle": "Wealth and Work"
+    },
+    {
+      "slug": "alien",
+      "title": "Alien Truth",
+      "date": "October 2022",
+      "url": "https://paulgraham.com/alien.html",
+      "partId": "life",
+      "partNumber": "V",
+      "partTitle": "Life and Society"
+    },
+    {
+      "slug": "read",
+      "title": "The Need to Read",
+      "date": "November 2022",
+      "url": "https://paulgraham.com/read.html",
+      "partId": "writing",
+      "partNumber": "IV",
+      "partTitle": "Writing and Thinking"
+    },
+    {
+      "slug": "want",
+      "title": "What You (Want to)* Want",
+      "date": "November 2022",
+      "url": "https://paulgraham.com/want.html",
+      "partId": "life",
+      "partNumber": "V",
+      "partTitle": "Life and Society"
+    },
+    {
+      "slug": "getideas",
+      "title": "How to Get New Ideas",
+      "date": "January 2023",
+      "url": "https://paulgraham.com/getideas.html",
+      "partId": "writing",
+      "partNumber": "IV",
+      "partTitle": "Writing and Thinking"
+    },
+    {
+      "slug": "greatwork",
+      "title": "How to Do Great Work",
+      "date": "July 2023",
+      "url": "https://paulgraham.com/greatwork.html",
+      "partId": "wealth",
+      "partNumber": "II",
+      "partTitle": "Wealth and Work"
+    },
+    {
+      "slug": "superlinear",
+      "title": "Superlinear Returns",
+      "date": "October 2023",
+      "url": "https://paulgraham.com/superlinear.html",
+      "partId": "wealth",
+      "partNumber": "II",
+      "partTitle": "Wealth and Work"
+    },
+    {
+      "slug": "google",
+      "title": "How to Start Google",
+      "date": "March 2024",
+      "url": "https://paulgraham.com/google.html",
+      "partId": "life",
+      "partNumber": "V",
+      "partTitle": "Life and Society"
+    },
+    {
+      "slug": "best",
+      "title": "The Best Essay",
+      "date": "March 2024",
+      "url": "https://paulgraham.com/best.html",
+      "partId": "writing",
+      "partNumber": "IV",
+      "partTitle": "Writing and Thinking"
+    },
+    {
+      "slug": "reddits",
+      "title": "The Reddits",
+      "date": "March 2024",
+      "url": "https://paulgraham.com/reddits.html",
+      "partId": "life",
+      "partNumber": "V",
+      "partTitle": "Life and Society"
+    },
+    {
+      "slug": "persistence",
+      "title": "The Right Kind of Stubborn",
+      "date": "July 2024",
+      "url": "https://paulgraham.com/persistence.html",
+      "partId": "life",
+      "partNumber": "V",
+      "partTitle": "Life and Society"
+    },
+    {
+      "slug": "foundermode",
+      "title": "Founder Mode",
+      "date": "September 2024",
+      "url": "https://paulgraham.com/foundermode.html",
+      "partId": "startups",
+      "partNumber": "I",
+      "partTitle": "Startups"
+    },
+    {
+      "slug": "when",
+      "title": "When To Do What You Love",
+      "date": "September 2024",
+      "url": "https://paulgraham.com/when.html",
+      "partId": "life",
+      "partNumber": "V",
+      "partTitle": "Life and Society"
+    },
+    {
+      "slug": "writes",
+      "title": "Writes and Write-Nots",
+      "date": "October 2024",
+      "url": "https://paulgraham.com/writes.html",
+      "partId": "writing",
+      "partNumber": "IV",
+      "partTitle": "Writing and Thinking"
+    },
+    {
+      "slug": "woke",
+      "title": "The Origins of Wokeness",
+      "date": "January 2025",
+      "url": "https://paulgraham.com/woke.html",
+      "partId": "life",
+      "partNumber": "V",
+      "partTitle": "Life and Society"
+    },
+    {
+      "slug": "do",
+      "title": "What to Do",
+      "date": "March 2025",
+      "url": "https://paulgraham.com/do.html",
+      "partId": "life",
+      "partNumber": "V",
+      "partTitle": "Life and Society"
+    },
+    {
+      "slug": "goodwriting",
+      "title": "Good Writing",
+      "date": "May 2025",
+      "url": "https://paulgraham.com/goodwriting.html",
+      "partId": "life",
+      "partNumber": "V",
+      "partTitle": "Life and Society"
+    },
+    {
+      "slug": "field",
+      "title": "The Shape of the Essay Field",
+      "date": "June 2025",
+      "url": "https://paulgraham.com/field.html",
+      "partId": "writing",
+      "partNumber": "IV",
+      "partTitle": "Writing and Thinking"
+    },
+    {
+      "slug": "brandage",
+      "title": "The Brand Age",
+      "date": "March 2026",
+      "url": "https://paulgraham.com/brandage.html",
+      "partId": "life",
+      "partNumber": "V",
+      "partTitle": "Life and Society"
+    },
+    {
+      "slug": "winc",
+      "title": "How to Convert Between Wealth and Income Tax",
+      "date": "May 2026",
+      "url": "https://paulgraham.com/winc.html",
+      "partId": "wealth",
+      "partNumber": "II",
+      "partTitle": "Wealth and Work"
+    },
+    {
+      "slug": "earn",
+      "title": "How to Earn a Billion Dollars",
+      "date": "June 2026",
+      "url": "https://paulgraham.com/earn.html",
+      "partId": "wealth",
+      "partNumber": "II",
+      "partTitle": "Wealth and Work"
+    },
+    {
+      "slug": "prepare",
+      "title": "How Universities Should Prepare Founders",
+      "date": "August 2026",
+      "url": "https://paulgraham.com/prepare.html",
+      "partId": "startups",
+      "partNumber": "I",
+      "partTitle": "Startups"
+    },
+    {
+      "slug": "powerful",
+      "title": "Making Startups Powerful",
+      "date": "September 2026",
+      "url": "https://paulgraham.com/powerful.html",
+      "partId": "startups",
+      "partNumber": "I",
+      "partTitle": "Startups"
+    },
+    {
+      "slug": "progbot",
+      "title": "Programming Bottom-Up",
+      "date": null,
+      "url": "https://paulgraham.com/progbot.html",
+      "partId": "programming",
+      "partNumber": "III",
+      "partTitle": "Programming and Technology"
+    },
+    {
+      "slug": "fix",
+      "title": "What Languages Fix",
+      "date": null,
+      "url": "https://paulgraham.com/fix.html",
+      "partId": "programming",
+      "partNumber": "III",
+      "partTitle": "Programming and Technology"
+    },
+    {
+      "slug": "noop",
+      "title": "Why Arc Isn't Especially Object-Oriented",
+      "date": null,
+      "url": "https://paulgraham.com/noop.html",
+      "partId": "programming",
+      "partNumber": "III",
+      "partTitle": "Programming and Technology"
+    }
+  ]
+}
