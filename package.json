@@ -3,6 +3,8 @@
   "private": true,
   "scripts": {
     "refresh-metadata": "tsx scripts/refresh-metadata.ts",
+    "validate-predictions": "tsx scripts/validate-predictions.ts",
+    "prebuild": "npm run validate-predictions",
     "build": "next build",
     "dev": "next dev",
     "start": "next start"

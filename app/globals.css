@@ -8,6 +8,20 @@
   --card: #ffffff;
   --serif: "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, serif;
   --sans: system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  --verdict-right-bg: #e6f4ea;
+  --verdict-right-fg: #1e5c33;
+  --verdict-mostly-right-bg: #e8f0e6;
+  --verdict-mostly-right-fg: #2d5016;
+  --verdict-mixed-bg: #f3efe3;
+  --verdict-mixed-fg: #5c4a1a;
+  --verdict-mostly-wrong-bg: #fce8e6;
+  --verdict-mostly-wrong-fg: #8c2f1e;
+  --verdict-wrong-bg: #fde7e9;
+  --verdict-wrong-fg: #7a1020;
+  --verdict-too-early-bg: #e8eef7;
+  --verdict-too-early-fg: #1e4d8c;
+  --verdict-not-pred-bg: #eeeef0;
+  --verdict-not-pred-fg: #3d3d45;
 }
 
 *,
@@ -436,4 +450,176 @@ a:hover {
 
 .sort-toggle-btn:not(.is-active):hover {
   background: var(--bg);
+}
+
+.lede {
+  font-size: 1.05rem;
+  max-width: 42rem;
+}
+
+.verdict-badge {
+  display: inline-block;
+  font-size: 0.82rem;
+  font-weight: 600;
+  padding: 0.2rem 0.55rem;
+  border-radius: 999px;
+  border: 1px solid transparent;
+  line-height: 1.35;
+}
+
+.verdict-badge__prefix {
+  font-weight: 500;
+  opacity: 0.85;
+}
+
+.verdict-badge--right {
+  background: var(--verdict-right-bg);
+  color: var(--verdict-right-fg);
+  border-color: color-mix(in srgb, var(--verdict-right-fg) 25%, transparent);
+}
+
+.verdict-badge--mostly_right {
+  background: var(--verdict-mostly-right-bg);
+  color: var(--verdict-mostly-right-fg);
+  border-color: color-mix(in srgb, var(--verdict-mostly-right-fg) 25%, transparent);
+}
+
+.verdict-badge--mixed {
+  background: var(--verdict-mixed-bg);
+  color: var(--verdict-mixed-fg);
+  border-color: color-mix(in srgb, var(--verdict-mixed-fg) 25%, transparent);
+}
+
+.verdict-badge--mostly_wrong {
+  background: var(--verdict-mostly-wrong-bg);
+  color: var(--verdict-mostly-wrong-fg);
+  border-color: color-mix(in srgb, var(--verdict-mostly-wrong-fg) 25%, transparent);
+}
+
+.verdict-badge--wrong {
+  background: var(--verdict-wrong-bg);
+  color: var(--verdict-wrong-fg);
+  border-color: color-mix(in srgb, var(--verdict-wrong-fg) 25%, transparent);
+}
+
+.verdict-badge--too_early {
+  background: var(--verdict-too-early-bg);
+  color: var(--verdict-too-early-fg);
+  border-color: color-mix(in srgb, var(--verdict-too-early-fg) 25%, transparent);
+}
+
+.verdict-badge--not_prediction {
+  background: var(--verdict-not-pred-bg);
+  color: var(--verdict-not-pred-fg);
+  border-color: color-mix(in srgb, var(--verdict-not-pred-fg) 20%, transparent);
+}
+
+.verdict-summary {
+  margin: 2rem 0;
+}
+
+.verdict-summary__list {
+  list-style: none;
+  padding: 0;
+  margin: 0.75rem 0 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.65rem 1rem;
+  align-items: center;
+}
+
+.verdict-summary__list li {
+  display: flex;
+  align-items: center;
+  gap: 0.35rem;
+}
+
+.verdict-summary__count {
+  font-size: 0.88rem;
+  color: var(--muted);
+}
+
+.prediction-essay-groups {
+  display: flex;
+  flex-direction: column;
+  gap: 2.5rem;
+  margin-top: 2rem;
+}
+
+.prediction-essay-group__header h2 {
+  font-family: var(--serif);
+  font-size: 1.45rem;
+  margin: 0 0 0.35rem;
+}
+
+.prediction-essay-group__header h2 a {
+  color: var(--text);
+  text-decoration: none;
+}
+
+.prediction-essay-group__header h2 a:hover {
+  color: var(--accent);
+  text-decoration: underline;
+}
+
+.prediction-essay-group__cards {
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem;
+  margin-top: 1rem;
+}
+
+.prediction-card {
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 1.25rem 1.35rem;
+}
+
+.prediction-card__header {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 0.75rem;
+  margin-bottom: 0.85rem;
+}
+
+.prediction-card__claim {
+  font-family: var(--serif);
+  font-size: 1.08rem;
+  line-height: 1.4;
+  margin: 0;
+  flex: 1 1 16rem;
+  font-weight: 600;
+}
+
+.prediction-card__outcome {
+  margin: 0 0 0.65rem;
+  font-size: 0.98rem;
+}
+
+.prediction-card__outcome-label {
+  font-weight: 600;
+}
+
+.prediction-card__meta {
+  margin: 0 0 0.85rem;
+  font-size: 0.88rem;
+}
+
+.prediction-card__sources-label {
+  margin: 0 0 0.35rem;
+  font-size: 0.88rem;
+  font-weight: 600;
+}
+
+.prediction-card__sources ul {
+  margin: 0;
+  padding-left: 1.2rem;
+  font-size: 0.92rem;
+}
+
+.prediction-card__sources li {
+  margin: 0.25rem 0;
 }
