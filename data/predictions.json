@@ -1,0 +1,222 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-10-08",
+  "entries": [
+    {
+      "slug": "web20",
+      "status": "published",
+      "cards": [
+        {
+          "id": "web20-rich-clients",
+          "claim": "The next web wave would center on in-browser applications that feel like desktop software, powered by JavaScript techniques such as Ajax rather than static pages.",
+          "outcome": "Single-page and rich web apps became mainstream in email, docs, maps, and SaaS; XMLHttpRequest and later APIs underpin most interactive sites people use daily.",
+          "verdict": "mostly_right",
+          "confidence": "high",
+          "asOf": "2026",
+          "sources": [
+            {
+              "label": "MDN: XMLHttpRequest API",
+              "url": "https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest"
+            },
+            {
+              "label": "W3C: Architecture of the World Wide Web",
+              "url": "https://www.w3.org/TR/2004/REC-webarch-20041215/"
+            },
+            {
+              "label": "Wikipedia: Web 2.0 (overview)",
+              "url": "https://en.wikipedia.org/wiki/Web_2.0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "future",
+      "status": "published",
+      "cards": [
+        {
+          "id": "future-seed-democratization",
+          "claim": "Startup funding would shift toward many smaller seed checks and angel-style rounds instead of relying on a few large VC gatekeepers.",
+          "outcome": "Seed and pre-seed activity expanded for years, with accelerators, angels, and micro-funds common—though late-stage capital also concentrated in mega-funds and growth rounds.",
+          "verdict": "mostly_right",
+          "confidence": "medium",
+          "asOf": "2026",
+          "sources": [
+            {
+              "label": "NVCA: 2024 Yearbook (venture industry data)",
+              "url": "https://www.nvca.org/research/nvca-2024-yearbook/"
+            },
+            {
+              "label": "Wikipedia: Venture capital (market structure)",
+              "url": "https://en.wikipedia.org/wiki/Venture_capital"
+            },
+            {
+              "label": "U.S. Census Bureau: Business Formation Statistics",
+              "url": "https://www.census.gov/econ/bfs/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "bubble",
+      "status": "published",
+      "cards": [
+        {
+          "id": "bubble-leftovers",
+          "claim": "Even where the dot-com bubble burst, it would leave durable infrastructure—especially bandwidth and habits—that later startups could build on cheaply.",
+          "outcome": "Falling connectivity costs and global internet adoption supported mobile, cloud, and SaaS booms; many bubble-era fiber and hosting investments were later utilized at lower prices.",
+          "verdict": "mostly_right",
+          "confidence": "medium",
+          "asOf": "2026",
+          "sources": [
+            {
+              "label": "Wikipedia: Dot-com bubble (aftermath)",
+              "url": "https://en.wikipedia.org/wiki/Dot-com_bubble"
+            },
+            {
+              "label": "ITU: ICT statistics portal",
+              "url": "https://www.itu.int/en/ITU-D/Statistics/Pages/stat/default.aspx"
+            },
+            {
+              "label": "Internet Live Stats: internet users",
+              "url": "https://www.internetlivestats.com/internet-users/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "segway",
+      "status": "published",
+      "cards": [
+        {
+          "id": "segway-niche-not-car",
+          "claim": "The Segway would not replace cars or normal walking for most people because it looked awkward, needed special contexts, and did not fit everyday errands.",
+          "outcome": "Consumer Segway PT production ended; personal two-wheel devices stayed niche (tourism, security, warehouses) while cars and scooters dominated urban mobility.",
+          "verdict": "right",
+          "confidence": "high",
+          "asOf": "2026",
+          "sources": [
+            {
+              "label": "Wikipedia: Segway PT (commercial history)",
+              "url": "https://en.wikipedia.org/wiki/Segway_PT"
+            },
+            {
+              "label": "Deloitte: TMT predictions (mobility trends)",
+              "url": "https://www2.deloitte.com/us/en/insights/industry/technology/technology-media-and-telecom-predictions.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "microsoft",
+      "status": "published",
+      "cards": [
+        {
+          "id": "microsoft-platform-threat",
+          "claim": "Microsoft would cease to be the dominant platform threat for startups because the action moved to the open web and Google-era services instead of the Windows API.",
+          "outcome": "Startups scaled on web, mobile, and cloud stacks with less Windows lock-in; Microsoft rebounded as a cloud and enterprise powerhouse rather than the default consumer platform gatekeeper.",
+          "verdict": "mixed",
+          "confidence": "medium",
+          "asOf": "2026",
+          "sources": [
+            {
+              "label": "Wikipedia: Microsoft (recent business shift)",
+              "url": "https://en.wikipedia.org/wiki/Microsoft"
+            },
+            {
+              "label": "Microsoft Investor Relations",
+              "url": "https://www.microsoft.com/en-us/investor/default.aspx"
+            },
+            {
+              "label": "Learn: Microsoft Azure documentation hub",
+              "url": "https://learn.microsoft.com/en-us/azure/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "apple",
+      "status": "published",
+      "cards": [
+        {
+          "id": "apple-app-store-control",
+          "claim": "Apple's tight, centralized control of native iPhone apps through its store and approval process would become a strategic weakness versus more open platforms.",
+          "outcome": "Regulators and developers challenged App Store rules worldwide, yet Apple's ecosystem kept enormous revenue and user loyalty; openness moved partly to the web and sideloading debates, not a collapse of the model.",
+          "verdict": "mixed",
+          "confidence": "medium",
+          "asOf": "2026",
+          "sources": [
+            {
+              "label": "Apple Developer: App Store overview",
+              "url": "https://developer.apple.com/app-store/"
+            },
+            {
+              "label": "Wikipedia: App Store (Apple)",
+              "url": "https://en.wikipedia.org/wiki/App_Store_(Apple)"
+            },
+            {
+              "label": "Apple: App Store product page",
+              "url": "https://www.apple.com/app-store/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "wealth",
+      "status": "published",
+      "cards": [
+        {
+          "id": "wealth-startups-scale",
+          "claim": "Small, technology-driven companies could create large wealth quickly because software and automation let tiny teams serve huge markets—unlike many traditional small businesses.",
+          "outcome": "High-growth tech startups produced some of the largest market-cap gains of the 2000s–2020s, while most small firms remain local and modest in scale.",
+          "verdict": "mostly_right",
+          "confidence": "medium",
+          "asOf": "2026",
+          "sources": [
+            {
+              "label": "U.S. Census Bureau: Business Formation Statistics",
+              "url": "https://www.census.gov/econ/bfs/"
+            },
+            {
+              "label": "World Bank: GDP growth data",
+              "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG"
+            },
+            {
+              "label": "web.dev: Why speed matters (building at web scale)",
+              "url": "https://web.dev/articles/why-speed-matters"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "superlinear",
+      "status": "published",
+      "cards": [
+        {
+          "id": "superlinear-concentration",
+          "claim": "Returns in many competitive fields would keep skewing superlinear—small edges compounding so a few winners capture most of the upside in technology markets.",
+          "outcome": "Market concentration and winner-take-most dynamics strengthened in several digital sectors, though antitrust scrutiny and new platforms periodically disrupt incumbents.",
+          "verdict": "too_early",
+          "confidence": "low",
+          "asOf": "2026",
+          "sources": [
+            {
+              "label": "ECB: Superstar firms and market power (economic bulletin)",
+              "url": "https://www.ecb.europa.eu/pub/economic-bulletin/articles/2018/html/ecb.ebart201806_02.en.html"
+            },
+            {
+              "label": "Deloitte: TMT industry predictions",
+              "url": "https://www2.deloitte.com/us/en/insights/industry/technology/technology-media-and-telecom-predictions.html"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
