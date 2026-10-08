@@ -404,3 +404,36 @@ a:hover {
 .date-index .year-group {
   margin-bottom: 1.5rem;
 }
+
+.sort-toggle {
+  display: inline-flex;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  overflow: hidden;
+  margin: 0 0 1.75rem;
+  background: var(--card);
+}
+
+.sort-toggle-btn {
+  font: inherit;
+  font-size: 0.92rem;
+  font-weight: 600;
+  padding: 0.5rem 1rem;
+  border: none;
+  background: transparent;
+  color: var(--text);
+  cursor: pointer;
+}
+
+.sort-toggle-btn + .sort-toggle-btn {
+  border-left: 1px solid var(--border);
+}
+
+.sort-toggle-btn.is-active {
+  background: var(--accent);
+  color: #fff;
+}
+
+.sort-toggle-btn:not(.is-active):hover {
+  background: var(--bg);
+}
