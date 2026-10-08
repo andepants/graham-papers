@@ -30,9 +30,6 @@ export function Footer() {
               <Link href="/all-by-date">All essays by date</Link>
             </li>
             <li>
-              <Link href="/was-pg-right">Was PG right?</Link>
-            </li>
-            <li>
               <Link href="/about">About</Link>
             </li>
           </ul>
