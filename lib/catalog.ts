@@ -32,10 +32,17 @@ export const DISCLAIMERS = {
   unofficial:
     "The Grahamanack is an unofficial, fan-made reading guide. It is not affiliated with or endorsed by Paul Graham.",
   copyright:
-    "All essays are © Paul Graham. Read them in full at paulgraham.com — this site links to the originals only.",
+    "All essays are © Paul Graham. The ebook is an unofficial compilation for personal reading. The canonical versions live at paulgraham.com.",
   inspiration:
-    "Inspired by Eric Jorgenson's Navalmanack as a way to navigate a body of writing — without republishing it.",
+    "Inspired by Eric Jorgenson's Navalmanack as a way to navigate a body of writing, without republishing it.",
 };
+
+export function writingYears(): { first: number; last: number } {
+  const years = CATALOG.byDate
+    .map((e) => Number(e.date?.match(/\d{4}/)?.[0]))
+    .filter((y) => Number.isFinite(y) && y > 0);
+  return { first: Math.min(...years), last: Math.max(...years) };
+}
 
 export function starterEssays(): EssayLink[] {
   const bySlug = new Map(CATALOG.byDate.map((e) => [e.slug, e]));

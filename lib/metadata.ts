@@ -4,7 +4,7 @@ export function siteMetadata(overrides?: Partial<Metadata>): Metadata {
   const title = overrides?.title ?? "The Grahamanack";
   const description =
     (typeof overrides?.description === "string" ? overrides.description : undefined) ??
-    "An unofficial reading guide to Paul Graham's essays on paulgraham.com — themed index, no hosted text.";
+    "An unofficial reading guide to Paul Graham's essays on paulgraham.com, with a themed index and a chronological list.";
 
   return {
     title,

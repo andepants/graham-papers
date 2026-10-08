@@ -1,6 +1,8 @@
 node_modules/
 .next/
 out/
+.cache/
+tsconfig.tsbuildinfo
 .DS_Store
 *.log
 .env*.local
